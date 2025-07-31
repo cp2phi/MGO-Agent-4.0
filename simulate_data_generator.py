@@ -16,7 +16,7 @@ from tenacity import retry, stop_after_attempt, wait_exponential
 
 # Initialize OpenAI client
 client = OpenAI(
-    api_key="sk-proj-nVSBwn7CO8j0XTqNDgglaNFAx6g0Sk2g1iAXDla9uZAysCbfc2ofiK2AfovrAu6-9dqvE0TdbtT3BlbkFJscNEOyHskPMQ8Uw0BAvgupjpGKeZOx6590y7OVuwoUpgvjDge13S0zs4mHXlFt23rWr5-F-YA")
+    api_key="sk-proj-xx")
 
 # Create data directory if it doesn't exist
 os.makedirs("LLM_data", exist_ok=True)
