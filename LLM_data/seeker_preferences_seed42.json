@@ -1,0 +1,1236 @@
+{
+  "SEEKER_0000": {
+    "ranked_job_ids": [
+      "JOB_0017",
+      "JOB_0008",
+      "JOB_0008",
+      "JOB_0019",
+      "JOB_0016",
+      "JOB_0018",
+      "JOB_0017",
+      "JOB_0005",
+      "JOB_0011",
+      "JOB_0010"
+    ],
+    "reasons": {
+      "JOB_0017": "Vector similarity score: 0.3852",
+      "JOB_0008": "Vector similarity score: 0.469",
+      "JOB_0019": "Vector similarity score: 0.493",
+      "JOB_0016": "Vector similarity score: 0.3189",
+      "JOB_0018": "Vector similarity score: 0.3794",
+      "JOB_0005": "Vector similarity score: 0.4592",
+      "JOB_0011": "Vector similarity score: 0.3269",
+      "JOB_0010": "Vector similarity score: 0.4313"
+    }
+  },
+  "SEEKER_0001": {
+    "ranked_job_ids": [
+      "JOB_0017",
+      "JOB_0019",
+      "JOB_0016",
+      "JOB_0004",
+      "JOB_0002",
+      "JOB_0019",
+      "JOB_0013",
+      "JOB_0015",
+      "JOB_0014",
+      "JOB_0003"
+    ],
+    "reasons": {
+      "JOB_0017": "Vector similarity score: 0.4467",
+      "JOB_0019": "Vector similarity score: 0.4357",
+      "JOB_0016": "Vector similarity score: 0.4963",
+      "JOB_0004": "Vector similarity score: 0.388",
+      "JOB_0002": "Vector similarity score: 0.3031",
+      "JOB_0013": "Vector similarity score: 0.3683",
+      "JOB_0015": "Vector similarity score: 0.3844",
+      "JOB_0014": "Vector similarity score: 0.3728",
+      "JOB_0003": "Vector similarity score: 0.34"
+    }
+  },
+  "SEEKER_0002": {
+    "ranked_job_ids": [
+      "JOB_0008",
+      "JOB_0018",
+      "JOB_0009",
+      "JOB_0012",
+      "JOB_0014",
+      "JOB_0006",
+      "JOB_0016",
+      "JOB_0014",
+      "JOB_0017",
+      "JOB_0008"
+    ],
+    "reasons": {
+      "JOB_0008": "Vector similarity score: 0.4928",
+      "JOB_0018": "Vector similarity score: 0.4291",
+      "JOB_0009": "Vector similarity score: 0.4528",
+      "JOB_0012": "Vector similarity score: 0.4907",
+      "JOB_0014": "Vector similarity score: 0.4169",
+      "JOB_0006": "Vector similarity score: 0.4086",
+      "JOB_0016": "Vector similarity score: 0.4601",
+      "JOB_0017": "Vector similarity score: 0.4143"
+    }
+  },
+  "SEEKER_0003": {
+    "ranked_job_ids": [
+      "JOB_0002",
+      "JOB_0014",
+      "JOB_0007",
+      "JOB_0008",
+      "JOB_0016",
+      "JOB_0002",
+      "JOB_0008",
+      "JOB_0016",
+      "JOB_0003",
+      "JOB_0001"
+    ],
+    "reasons": {
+      "JOB_0002": "Vector similarity score: 0.3714",
+      "JOB_0014": "Vector similarity score: 0.4847",
+      "JOB_0007": "Vector similarity score: 0.4311",
+      "JOB_0008": "Vector similarity score: 0.3916",
+      "JOB_0016": "Vector similarity score: 0.4124",
+      "JOB_0003": "Vector similarity score: 0.3012",
+      "JOB_0001": "Vector similarity score: 0.459"
+    }
+  },
+  "SEEKER_0004": {
+    "ranked_job_ids": [
+      "JOB_0001",
+      "JOB_0004",
+      "JOB_0013",
+      "JOB_0003",
+      "JOB_0017",
+      "JOB_0010",
+      "JOB_0015",
+      "JOB_0002",
+      "JOB_0008",
+      "JOB_0016"
+    ],
+    "reasons": {
+      "JOB_0001": "Vector similarity score: 0.3081",
+      "JOB_0004": "Vector similarity score: 0.4622",
+      "JOB_0013": "Vector similarity score: 0.4093",
+      "JOB_0003": "Vector similarity score: 0.3424",
+      "JOB_0017": "Vector similarity score: 0.473",
+      "JOB_0010": "Vector similarity score: 0.3925",
+      "JOB_0015": "Vector similarity score: 0.3868",
+      "JOB_0002": "Vector similarity score: 0.3344",
+      "JOB_0008": "Vector similarity score: 0.4819",
+      "JOB_0016": "Vector similarity score: 0.4423"
+    }
+  },
+  "SEEKER_0005": {
+    "ranked_job_ids": [
+      "JOB_0010",
+      "JOB_0014",
+      "JOB_0009",
+      "JOB_0001",
+      "JOB_0016",
+      "JOB_0017",
+      "JOB_0019",
+      "JOB_0015",
+      "JOB_0000",
+      "JOB_0001"
+    ],
+    "reasons": {
+      "JOB_0010": "Vector similarity score: 0.3473",
+      "JOB_0014": "Vector similarity score: 0.4359",
+      "JOB_0009": "Vector similarity score: 0.4604",
+      "JOB_0001": "Vector similarity score: 0.4507",
+      "JOB_0016": "Vector similarity score: 0.4914",
+      "JOB_0017": "Vector similarity score: 0.4876",
+      "JOB_0019": "Vector similarity score: 0.3889",
+      "JOB_0015": "Vector similarity score: 0.3061",
+      "JOB_0000": "Vector similarity score: 0.4875"
+    }
+  },
+  "SEEKER_0006": {
+    "ranked_job_ids": [
+      "JOB_0016",
+      "JOB_0007",
+      "JOB_0002",
+      "JOB_0002",
+      "JOB_0016",
+      "JOB_0015",
+      "JOB_0008",
+      "JOB_0019",
+      "JOB_0010",
+      "JOB_0014"
+    ],
+    "reasons": {
+      "JOB_0016": "Vector similarity score: 0.4998",
+      "JOB_0007": "Vector similarity score: 0.3365",
+      "JOB_0002": "Vector similarity score: 0.3201",
+      "JOB_0015": "Vector similarity score: 0.3116",
+      "JOB_0008": "Vector similarity score: 0.3837",
+      "JOB_0019": "Vector similarity score: 0.4619",
+      "JOB_0010": "Vector similarity score: 0.3857",
+      "JOB_0014": "Vector similarity score: 0.3325"
+    }
+  },
+  "SEEKER_0007": {
+    "ranked_job_ids": [
+      "JOB_0001",
+      "JOB_0019",
+      "JOB_0002",
+      "JOB_0005",
+      "JOB_0011",
+      "JOB_0001",
+      "JOB_0004",
+      "JOB_0015",
+      "JOB_0017",
+      "JOB_0010"
+    ],
+    "reasons": {
+      "JOB_0001": "Vector similarity score: 0.3138",
+      "JOB_0019": "Vector similarity score: 0.4953",
+      "JOB_0002": "Vector similarity score: 0.4539",
+      "JOB_0005": "Vector similarity score: 0.3241",
+      "JOB_0011": "Vector similarity score: 0.4239",
+      "JOB_0004": "Vector similarity score: 0.4204",
+      "JOB_0015": "Vector similarity score: 0.3552",
+      "JOB_0017": "Vector similarity score: 0.3304",
+      "JOB_0010": "Vector similarity score: 0.317"
+    }
+  },
+  "SEEKER_0008": {
+    "ranked_job_ids": [
+      "JOB_0017",
+      "JOB_0008",
+      "JOB_0016",
+      "JOB_0003",
+      "JOB_0007",
+      "JOB_0018",
+      "JOB_0019",
+      "JOB_0009",
+      "JOB_0002",
+      "JOB_0002"
+    ],
+    "reasons": {
+      "JOB_0017": "Vector similarity score: 0.4356",
+      "JOB_0008": "Vector similarity score: 0.4971",
+      "JOB_0016": "Vector similarity score: 0.4896",
+      "JOB_0003": "Vector similarity score: 0.4196",
+      "JOB_0007": "Vector similarity score: 0.3456",
+      "JOB_0018": "Vector similarity score: 0.4373",
+      "JOB_0019": "Vector similarity score: 0.3216",
+      "JOB_0009": "Vector similarity score: 0.3705",
+      "JOB_0002": "Vector similarity score: 0.3335"
+    }
+  },
+  "SEEKER_0009": {
+    "ranked_job_ids": [
+      "JOB_0019",
+      "JOB_0004",
+      "JOB_0001",
+      "JOB_0017",
+      "JOB_0001",
+      "JOB_0017",
+      "JOB_0005",
+      "JOB_0014",
+      "JOB_0008",
+      "JOB_0019"
+    ],
+    "reasons": {
+      "JOB_0019": "Vector similarity score: 0.3111",
+      "JOB_0004": "Vector similarity score: 0.3672",
+      "JOB_0001": "Vector similarity score: 0.3982",
+      "JOB_0017": "Vector similarity score: 0.4775",
+      "JOB_0005": "Vector similarity score: 0.4607",
+      "JOB_0014": "Vector similarity score: 0.3455",
+      "JOB_0008": "Vector similarity score: 0.3522"
+    }
+  },
+  "SEEKER_0010": {
+    "ranked_job_ids": [
+      "JOB_0016",
+      "JOB_0019",
+      "JOB_0018",
+      "JOB_0008",
+      "JOB_0001",
+      "JOB_0015",
+      "JOB_0000",
+      "JOB_0010",
+      "JOB_0017",
+      "JOB_0004"
+    ],
+    "reasons": {
+      "JOB_0016": "Vector similarity score: 0.4623",
+      "JOB_0019": "Vector similarity score: 0.3634",
+      "JOB_0018": "Vector similarity score: 0.4908",
+      "JOB_0008": "Vector similarity score: 0.3606",
+      "JOB_0001": "Vector similarity score: 0.4647",
+      "JOB_0015": "Vector similarity score: 0.4996",
+      "JOB_0000": "Vector similarity score: 0.3587",
+      "JOB_0010": "Vector similarity score: 0.4201",
+      "JOB_0017": "Vector similarity score: 0.3613",
+      "JOB_0004": "Vector similarity score: 0.3074"
+    }
+  },
+  "SEEKER_0011": {
+    "ranked_job_ids": [
+      "JOB_0016",
+      "JOB_0016",
+      "JOB_0007",
+      "JOB_0019",
+      "JOB_0013",
+      "JOB_0001",
+      "JOB_0009",
+      "JOB_0008",
+      "JOB_0012",
+      "JOB_0017"
+    ],
+    "reasons": {
+      "JOB_0016": "Vector similarity score: 0.4146",
+      "JOB_0007": "Vector similarity score: 0.4826",
+      "JOB_0019": "Vector similarity score: 0.3775",
+      "JOB_0013": "Vector similarity score: 0.4372",
+      "JOB_0001": "Vector similarity score: 0.4899",
+      "JOB_0009": "Vector similarity score: 0.4264",
+      "JOB_0008": "Vector similarity score: 0.3647",
+      "JOB_0012": "Vector similarity score: 0.4034",
+      "JOB_0017": "Vector similarity score: 0.4425"
+    }
+  },
+  "SEEKER_0012": {
+    "ranked_job_ids": [
+      "JOB_0008",
+      "JOB_0015",
+      "JOB_0005",
+      "JOB_0004",
+      "JOB_0001",
+      "JOB_0017",
+      "JOB_0000",
+      "JOB_0014",
+      "JOB_0008",
+      "JOB_0018"
+    ],
+    "reasons": {
+      "JOB_0008": "Vector similarity score: 0.3815",
+      "JOB_0015": "Vector similarity score: 0.4427",
+      "JOB_0005": "Vector similarity score: 0.4133",
+      "JOB_0004": "Vector similarity score: 0.3042",
+      "JOB_0001": "Vector similarity score: 0.3851",
+      "JOB_0017": "Vector similarity score: 0.3658",
+      "JOB_0000": "Vector similarity score: 0.401",
+      "JOB_0014": "Vector similarity score: 0.492",
+      "JOB_0018": "Vector similarity score: 0.4926"
+    }
+  },
+  "SEEKER_0013": {
+    "ranked_job_ids": [
+      "JOB_0012",
+      "JOB_0017",
+      "JOB_0002",
+      "JOB_0019",
+      "JOB_0018",
+      "JOB_0009",
+      "JOB_0006",
+      "JOB_0000",
+      "JOB_0019",
+      "JOB_0001"
+    ],
+    "reasons": {
+      "JOB_0012": "Vector similarity score: 0.4757",
+      "JOB_0017": "Vector similarity score: 0.3752",
+      "JOB_0002": "Vector similarity score: 0.4521",
+      "JOB_0019": "Vector similarity score: 0.4203",
+      "JOB_0018": "Vector similarity score: 0.3163",
+      "JOB_0009": "Vector similarity score: 0.3287",
+      "JOB_0006": "Vector similarity score: 0.3994",
+      "JOB_0000": "Vector similarity score: 0.4607",
+      "JOB_0001": "Vector similarity score: 0.4549"
+    }
+  },
+  "SEEKER_0014": {
+    "ranked_job_ids": [
+      "JOB_0005",
+      "JOB_0017",
+      "JOB_0008",
+      "JOB_0011",
+      "JOB_0000",
+      "JOB_0008",
+      "JOB_0016",
+      "JOB_0006",
+      "JOB_0014",
+      "JOB_0016"
+    ],
+    "reasons": {
+      "JOB_0005": "Vector similarity score: 0.3177",
+      "JOB_0017": "Vector similarity score: 0.453",
+      "JOB_0008": "Vector similarity score: 0.4323",
+      "JOB_0011": "Vector similarity score: 0.4526",
+      "JOB_0000": "Vector similarity score: 0.3255",
+      "JOB_0016": "Vector similarity score: 0.3173",
+      "JOB_0006": "Vector similarity score: 0.4687",
+      "JOB_0014": "Vector similarity score: 0.3005"
+    }
+  },
+  "SEEKER_0015": {
+    "ranked_job_ids": [
+      "JOB_0015",
+      "JOB_0016",
+      "JOB_0008",
+      "JOB_0017",
+      "JOB_0006",
+      "JOB_0001",
+      "JOB_0000",
+      "JOB_0011",
+      "JOB_0008",
+      "JOB_0006"
+    ],
+    "reasons": {
+      "JOB_0015": "Vector similarity score: 0.3922",
+      "JOB_0016": "Vector similarity score: 0.4903",
+      "JOB_0008": "Vector similarity score: 0.4211",
+      "JOB_0017": "Vector similarity score: 0.3462",
+      "JOB_0006": "Vector similarity score: 0.4413",
+      "JOB_0001": "Vector similarity score: 0.3277",
+      "JOB_0000": "Vector similarity score: 0.4199",
+      "JOB_0011": "Vector similarity score: 0.3073"
+    }
+  },
+  "SEEKER_0016": {
+    "ranked_job_ids": [
+      "JOB_0001",
+      "JOB_0016",
+      "JOB_0014",
+      "JOB_0017",
+      "JOB_0002",
+      "JOB_0010",
+      "JOB_0012",
+      "JOB_0011",
+      "JOB_0008",
+      "JOB_0014"
+    ],
+    "reasons": {
+      "JOB_0001": "Vector similarity score: 0.4758",
+      "JOB_0016": "Vector similarity score: 0.3189",
+      "JOB_0014": "Vector similarity score: 0.4235",
+      "JOB_0017": "Vector similarity score: 0.4685",
+      "JOB_0002": "Vector similarity score: 0.3927",
+      "JOB_0010": "Vector similarity score: 0.3374",
+      "JOB_0012": "Vector similarity score: 0.4412",
+      "JOB_0011": "Vector similarity score: 0.3112",
+      "JOB_0008": "Vector similarity score: 0.4205"
+    }
+  },
+  "SEEKER_0017": {
+    "ranked_job_ids": [
+      "JOB_0003",
+      "JOB_0001",
+      "JOB_0002",
+      "JOB_0014",
+      "JOB_0016",
+      "JOB_0012",
+      "JOB_0011",
+      "JOB_0017",
+      "JOB_0019",
+      "JOB_0016"
+    ],
+    "reasons": {
+      "JOB_0003": "Vector similarity score: 0.3865",
+      "JOB_0001": "Vector similarity score: 0.4412",
+      "JOB_0002": "Vector similarity score: 0.3025",
+      "JOB_0014": "Vector similarity score: 0.3127",
+      "JOB_0016": "Vector similarity score: 0.3935",
+      "JOB_0012": "Vector similarity score: 0.3107",
+      "JOB_0011": "Vector similarity score: 0.3768",
+      "JOB_0017": "Vector similarity score: 0.4611",
+      "JOB_0019": "Vector similarity score: 0.4315"
+    }
+  },
+  "SEEKER_0018": {
+    "ranked_job_ids": [
+      "JOB_0006",
+      "JOB_0002",
+      "JOB_0006",
+      "JOB_0017",
+      "JOB_0003",
+      "JOB_0018",
+      "JOB_0001",
+      "JOB_0005",
+      "JOB_0007",
+      "JOB_0016"
+    ],
+    "reasons": {
+      "JOB_0006": "Vector similarity score: 0.4466",
+      "JOB_0002": "Vector similarity score: 0.3503",
+      "JOB_0017": "Vector similarity score: 0.4646",
+      "JOB_0003": "Vector similarity score: 0.3573",
+      "JOB_0018": "Vector similarity score: 0.3635",
+      "JOB_0001": "Vector similarity score: 0.4839",
+      "JOB_0005": "Vector similarity score: 0.4665",
+      "JOB_0007": "Vector similarity score: 0.3688",
+      "JOB_0016": "Vector similarity score: 0.3162"
+    }
+  },
+  "SEEKER_0019": {
+    "ranked_job_ids": [
+      "JOB_0014",
+      "JOB_0001",
+      "JOB_0012",
+      "JOB_0002",
+      "JOB_0010",
+      "JOB_0006",
+      "JOB_0007",
+      "JOB_0008",
+      "JOB_0008",
+      "JOB_0016"
+    ],
+    "reasons": {
+      "JOB_0014": "Vector similarity score: 0.4259",
+      "JOB_0001": "Vector similarity score: 0.3697",
+      "JOB_0012": "Vector similarity score: 0.4439",
+      "JOB_0002": "Vector similarity score: 0.4067",
+      "JOB_0010": "Vector similarity score: 0.3189",
+      "JOB_0006": "Vector similarity score: 0.4787",
+      "JOB_0007": "Vector similarity score: 0.3521",
+      "JOB_0008": "Vector similarity score: 0.3891",
+      "JOB_0016": "Vector similarity score: 0.3664"
+    }
+  },
+  "SEEKER_0020": {
+    "ranked_job_ids": [
+      "JOB_0004",
+      "JOB_0013",
+      "JOB_0007",
+      "JOB_0003",
+      "JOB_0017",
+      "JOB_0001",
+      "JOB_0005",
+      "JOB_0008",
+      "JOB_0008",
+      "JOB_0012"
+    ],
+    "reasons": {
+      "JOB_0004": "Vector similarity score: 0.4759",
+      "JOB_0013": "Vector similarity score: 0.3423",
+      "JOB_0007": "Vector similarity score: 0.4709",
+      "JOB_0003": "Vector similarity score: 0.3884",
+      "JOB_0017": "Vector similarity score: 0.4878",
+      "JOB_0001": "Vector similarity score: 0.4829",
+      "JOB_0005": "Vector similarity score: 0.32",
+      "JOB_0008": "Vector similarity score: 0.3599",
+      "JOB_0012": "Vector similarity score: 0.4721"
+    }
+  },
+  "SEEKER_0021": {
+    "ranked_job_ids": [
+      "JOB_0006",
+      "JOB_0004",
+      "JOB_0006",
+      "JOB_0016",
+      "JOB_0008",
+      "JOB_0002",
+      "JOB_0017",
+      "JOB_0017",
+      "JOB_0002",
+      "JOB_0013"
+    ],
+    "reasons": {
+      "JOB_0006": "Vector similarity score: 0.3395",
+      "JOB_0004": "Vector similarity score: 0.4473",
+      "JOB_0016": "Vector similarity score: 0.3349",
+      "JOB_0008": "Vector similarity score: 0.3227",
+      "JOB_0002": "Vector similarity score: 0.3829",
+      "JOB_0017": "Vector similarity score: 0.447",
+      "JOB_0013": "Vector similarity score: 0.4636"
+    }
+  },
+  "SEEKER_0022": {
+    "ranked_job_ids": [
+      "JOB_0013",
+      "JOB_0010",
+      "JOB_0018",
+      "JOB_0017",
+      "JOB_0016",
+      "JOB_0019",
+      "JOB_0003",
+      "JOB_0008",
+      "JOB_0016",
+      "JOB_0014"
+    ],
+    "reasons": {
+      "JOB_0013": "Vector similarity score: 0.4931",
+      "JOB_0010": "Vector similarity score: 0.4139",
+      "JOB_0018": "Vector similarity score: 0.3727",
+      "JOB_0017": "Vector similarity score: 0.4789",
+      "JOB_0016": "Vector similarity score: 0.4319",
+      "JOB_0019": "Vector similarity score: 0.4663",
+      "JOB_0003": "Vector similarity score: 0.3973",
+      "JOB_0008": "Vector similarity score: 0.3405",
+      "JOB_0014": "Vector similarity score: 0.3158"
+    }
+  },
+  "SEEKER_0023": {
+    "ranked_job_ids": [
+      "JOB_0008",
+      "JOB_0005",
+      "JOB_0017",
+      "JOB_0015",
+      "JOB_0011",
+      "JOB_0006",
+      "JOB_0012",
+      "JOB_0013",
+      "JOB_0017",
+      "JOB_0002"
+    ],
+    "reasons": {
+      "JOB_0008": "Vector similarity score: 0.4574",
+      "JOB_0005": "Vector similarity score: 0.4028",
+      "JOB_0017": "Vector similarity score: 0.4706",
+      "JOB_0015": "Vector similarity score: 0.461",
+      "JOB_0011": "Vector similarity score: 0.3529",
+      "JOB_0006": "Vector similarity score: 0.4277",
+      "JOB_0012": "Vector similarity score: 0.4833",
+      "JOB_0013": "Vector similarity score: 0.4586",
+      "JOB_0002": "Vector similarity score: 0.3127"
+    }
+  },
+  "SEEKER_0024": {
+    "ranked_job_ids": [
+      "JOB_0017",
+      "JOB_0002",
+      "JOB_0009",
+      "JOB_0006",
+      "JOB_0001",
+      "JOB_0016",
+      "JOB_0004",
+      "JOB_0016",
+      "JOB_0011",
+      "JOB_0013"
+    ],
+    "reasons": {
+      "JOB_0017": "Vector similarity score: 0.4743",
+      "JOB_0002": "Vector similarity score: 0.3612",
+      "JOB_0009": "Vector similarity score: 0.3614",
+      "JOB_0006": "Vector similarity score: 0.4958",
+      "JOB_0001": "Vector similarity score: 0.4976",
+      "JOB_0016": "Vector similarity score: 0.324",
+      "JOB_0004": "Vector similarity score: 0.3097",
+      "JOB_0011": "Vector similarity score: 0.4517",
+      "JOB_0013": "Vector similarity score: 0.446"
+    }
+  },
+  "SEEKER_0025": {
+    "ranked_job_ids": [
+      "JOB_0001",
+      "JOB_0017",
+      "JOB_0016",
+      "JOB_0011",
+      "JOB_0004",
+      "JOB_0015",
+      "JOB_0012",
+      "JOB_0013",
+      "JOB_0017",
+      "JOB_0016"
+    ],
+    "reasons": {
+      "JOB_0001": "Vector similarity score: 0.3496",
+      "JOB_0017": "Vector similarity score: 0.4288",
+      "JOB_0016": "Vector similarity score: 0.4546",
+      "JOB_0011": "Vector similarity score: 0.458",
+      "JOB_0004": "Vector similarity score: 0.4114",
+      "JOB_0015": "Vector similarity score: 0.3832",
+      "JOB_0012": "Vector similarity score: 0.4589",
+      "JOB_0013": "Vector similarity score: 0.3585"
+    }
+  },
+  "SEEKER_0026": {
+    "ranked_job_ids": [
+      "JOB_0006",
+      "JOB_0002",
+      "JOB_0017",
+      "JOB_0001",
+      "JOB_0002",
+      "JOB_0009",
+      "JOB_0015",
+      "JOB_0014",
+      "JOB_0016",
+      "JOB_0010"
+    ],
+    "reasons": {
+      "JOB_0006": "Vector similarity score: 0.424",
+      "JOB_0002": "Vector similarity score: 0.3181",
+      "JOB_0017": "Vector similarity score: 0.3237",
+      "JOB_0001": "Vector similarity score: 0.4004",
+      "JOB_0009": "Vector similarity score: 0.4505",
+      "JOB_0015": "Vector similarity score: 0.3199",
+      "JOB_0014": "Vector similarity score: 0.4682",
+      "JOB_0016": "Vector similarity score: 0.3572",
+      "JOB_0010": "Vector similarity score: 0.3777"
+    }
+  },
+  "SEEKER_0027": {
+    "ranked_job_ids": [
+      "JOB_0002",
+      "JOB_0019",
+      "JOB_0001",
+      "JOB_0017",
+      "JOB_0013",
+      "JOB_0009",
+      "JOB_0016",
+      "JOB_0018",
+      "JOB_0003",
+      "JOB_0015"
+    ],
+    "reasons": {
+      "JOB_0002": "Vector similarity score: 0.4831",
+      "JOB_0019": "Vector similarity score: 0.4715",
+      "JOB_0001": "Vector similarity score: 0.4323",
+      "JOB_0017": "Vector similarity score: 0.4226",
+      "JOB_0013": "Vector similarity score: 0.3625",
+      "JOB_0009": "Vector similarity score: 0.4509",
+      "JOB_0016": "Vector similarity score: 0.4261",
+      "JOB_0018": "Vector similarity score: 0.3997",
+      "JOB_0003": "Vector similarity score: 0.3753",
+      "JOB_0015": "Vector similarity score: 0.3289"
+    }
+  },
+  "SEEKER_0028": {
+    "ranked_job_ids": [
+      "JOB_0018",
+      "JOB_0017",
+      "JOB_0016",
+      "JOB_0001",
+      "JOB_0003",
+      "JOB_0008",
+      "JOB_0015",
+      "JOB_0001",
+      "JOB_0012",
+      "JOB_0012"
+    ],
+    "reasons": {
+      "JOB_0018": "Vector similarity score: 0.4098",
+      "JOB_0017": "Vector similarity score: 0.4169",
+      "JOB_0016": "Vector similarity score: 0.3394",
+      "JOB_0001": "Vector similarity score: 0.3884",
+      "JOB_0003": "Vector similarity score: 0.4443",
+      "JOB_0008": "Vector similarity score: 0.3937",
+      "JOB_0015": "Vector similarity score: 0.4631",
+      "JOB_0012": "Vector similarity score: 0.4125"
+    }
+  },
+  "SEEKER_0029": {
+    "ranked_job_ids": [
+      "JOB_0008",
+      "JOB_0008",
+      "JOB_0017",
+      "JOB_0006",
+      "JOB_0002",
+      "JOB_0005",
+      "JOB_0016",
+      "JOB_0007",
+      "JOB_0015",
+      "JOB_0011"
+    ],
+    "reasons": {
+      "JOB_0008": "Vector similarity score: 0.3055",
+      "JOB_0017": "Vector similarity score: 0.4884",
+      "JOB_0006": "Vector similarity score: 0.3523",
+      "JOB_0002": "Vector similarity score: 0.4647",
+      "JOB_0005": "Vector similarity score: 0.4648",
+      "JOB_0016": "Vector similarity score: 0.4135",
+      "JOB_0007": "Vector similarity score: 0.3015",
+      "JOB_0015": "Vector similarity score: 0.3622",
+      "JOB_0011": "Vector similarity score: 0.3529"
+    }
+  },
+  "SEEKER_0030": {
+    "ranked_job_ids": [
+      "JOB_0017",
+      "JOB_0015",
+      "JOB_0012",
+      "JOB_0017",
+      "JOB_0016",
+      "JOB_0013",
+      "JOB_0009",
+      "JOB_0008",
+      "JOB_0002",
+      "JOB_0012"
+    ],
+    "reasons": {
+      "JOB_0017": "Vector similarity score: 0.4581",
+      "JOB_0015": "Vector similarity score: 0.4918",
+      "JOB_0012": "Vector similarity score: 0.3665",
+      "JOB_0016": "Vector similarity score: 0.3188",
+      "JOB_0013": "Vector similarity score: 0.3754",
+      "JOB_0009": "Vector similarity score: 0.4412",
+      "JOB_0008": "Vector similarity score: 0.4537",
+      "JOB_0002": "Vector similarity score: 0.4799"
+    }
+  },
+  "SEEKER_0031": {
+    "ranked_job_ids": [
+      "JOB_0012",
+      "JOB_0013",
+      "JOB_0004",
+      "JOB_0015",
+      "JOB_0017",
+      "JOB_0017",
+      "JOB_0006",
+      "JOB_0016",
+      "JOB_0001",
+      "JOB_0005"
+    ],
+    "reasons": {
+      "JOB_0012": "Vector similarity score: 0.4445",
+      "JOB_0013": "Vector similarity score: 0.4081",
+      "JOB_0004": "Vector similarity score: 0.3277",
+      "JOB_0015": "Vector similarity score: 0.4683",
+      "JOB_0017": "Vector similarity score: 0.4295",
+      "JOB_0006": "Vector similarity score: 0.4107",
+      "JOB_0016": "Vector similarity score: 0.3616",
+      "JOB_0001": "Vector similarity score: 0.448",
+      "JOB_0005": "Vector similarity score: 0.3087"
+    }
+  },
+  "SEEKER_0032": {
+    "ranked_job_ids": [
+      "JOB_0007",
+      "JOB_0011",
+      "JOB_0013",
+      "JOB_0017",
+      "JOB_0001",
+      "JOB_0010",
+      "JOB_0002",
+      "JOB_0016",
+      "JOB_0004",
+      "JOB_0009"
+    ],
+    "reasons": {
+      "JOB_0007": "Vector similarity score: 0.4351",
+      "JOB_0011": "Vector similarity score: 0.4267",
+      "JOB_0013": "Vector similarity score: 0.4894",
+      "JOB_0017": "Vector similarity score: 0.3972",
+      "JOB_0001": "Vector similarity score: 0.4536",
+      "JOB_0010": "Vector similarity score: 0.4798",
+      "JOB_0002": "Vector similarity score: 0.4983",
+      "JOB_0016": "Vector similarity score: 0.3633",
+      "JOB_0004": "Vector similarity score: 0.3954",
+      "JOB_0009": "Vector similarity score: 0.3161"
+    }
+  },
+  "SEEKER_0033": {
+    "ranked_job_ids": [
+      "JOB_0001",
+      "JOB_0008",
+      "JOB_0006",
+      "JOB_0010",
+      "JOB_0008",
+      "JOB_0017",
+      "JOB_0003",
+      "JOB_0010",
+      "JOB_0019",
+      "JOB_0002"
+    ],
+    "reasons": {
+      "JOB_0001": "Vector similarity score: 0.3847",
+      "JOB_0008": "Vector similarity score: 0.4082",
+      "JOB_0006": "Vector similarity score: 0.3022",
+      "JOB_0010": "Vector similarity score: 0.4146",
+      "JOB_0017": "Vector similarity score: 0.4094",
+      "JOB_0003": "Vector similarity score: 0.4565",
+      "JOB_0019": "Vector similarity score: 0.3212",
+      "JOB_0002": "Vector similarity score: 0.3813"
+    }
+  },
+  "SEEKER_0034": {
+    "ranked_job_ids": [
+      "JOB_0001",
+      "JOB_0017",
+      "JOB_0013",
+      "JOB_0014",
+      "JOB_0004",
+      "JOB_0012",
+      "JOB_0000",
+      "JOB_0002",
+      "JOB_0010",
+      "JOB_0017"
+    ],
+    "reasons": {
+      "JOB_0001": "Vector similarity score: 0.3094",
+      "JOB_0017": "Vector similarity score: 0.4593",
+      "JOB_0013": "Vector similarity score: 0.3056",
+      "JOB_0014": "Vector similarity score: 0.3822",
+      "JOB_0004": "Vector similarity score: 0.4414",
+      "JOB_0012": "Vector similarity score: 0.3586",
+      "JOB_0000": "Vector similarity score: 0.4941",
+      "JOB_0002": "Vector similarity score: 0.3814",
+      "JOB_0010": "Vector similarity score: 0.4358"
+    }
+  },
+  "SEEKER_0035": {
+    "ranked_job_ids": [
+      "JOB_0006",
+      "JOB_0001",
+      "JOB_0011",
+      "JOB_0019",
+      "JOB_0019",
+      "JOB_0016",
+      "JOB_0002",
+      "JOB_0008",
+      "JOB_0014",
+      "JOB_0015"
+    ],
+    "reasons": {
+      "JOB_0006": "Vector similarity score: 0.3118",
+      "JOB_0001": "Vector similarity score: 0.4901",
+      "JOB_0011": "Vector similarity score: 0.4775",
+      "JOB_0019": "Vector similarity score: 0.3633",
+      "JOB_0016": "Vector similarity score: 0.3157",
+      "JOB_0002": "Vector similarity score: 0.3804",
+      "JOB_0008": "Vector similarity score: 0.4664",
+      "JOB_0014": "Vector similarity score: 0.43",
+      "JOB_0015": "Vector similarity score: 0.4034"
+    }
+  },
+  "SEEKER_0036": {
+    "ranked_job_ids": [
+      "JOB_0017",
+      "JOB_0019",
+      "JOB_0010",
+      "JOB_0010",
+      "JOB_0001",
+      "JOB_0002",
+      "JOB_0003",
+      "JOB_0012",
+      "JOB_0016",
+      "JOB_0013"
+    ],
+    "reasons": {
+      "JOB_0017": "Vector similarity score: 0.3453",
+      "JOB_0019": "Vector similarity score: 0.4017",
+      "JOB_0010": "Vector similarity score: 0.305",
+      "JOB_0001": "Vector similarity score: 0.3918",
+      "JOB_0002": "Vector similarity score: 0.3798",
+      "JOB_0003": "Vector similarity score: 0.3801",
+      "JOB_0012": "Vector similarity score: 0.3225",
+      "JOB_0016": "Vector similarity score: 0.3408",
+      "JOB_0013": "Vector similarity score: 0.4865"
+    }
+  },
+  "SEEKER_0037": {
+    "ranked_job_ids": [
+      "JOB_0007",
+      "JOB_0017",
+      "JOB_0008",
+      "JOB_0011",
+      "JOB_0018",
+      "JOB_0016",
+      "JOB_0006",
+      "JOB_0004",
+      "JOB_0001",
+      "JOB_0017"
+    ],
+    "reasons": {
+      "JOB_0007": "Vector similarity score: 0.4372",
+      "JOB_0017": "Vector similarity score: 0.3438",
+      "JOB_0008": "Vector similarity score: 0.3253",
+      "JOB_0011": "Vector similarity score: 0.3247",
+      "JOB_0018": "Vector similarity score: 0.391",
+      "JOB_0016": "Vector similarity score: 0.4662",
+      "JOB_0006": "Vector similarity score: 0.4751",
+      "JOB_0004": "Vector similarity score: 0.3855",
+      "JOB_0001": "Vector similarity score: 0.3796"
+    }
+  },
+  "SEEKER_0038": {
+    "ranked_job_ids": [
+      "JOB_0011",
+      "JOB_0012",
+      "JOB_0016",
+      "JOB_0016",
+      "JOB_0018",
+      "JOB_0002",
+      "JOB_0001",
+      "JOB_0008",
+      "JOB_0001",
+      "JOB_0004"
+    ],
+    "reasons": {
+      "JOB_0011": "Vector similarity score: 0.3745",
+      "JOB_0012": "Vector similarity score: 0.4785",
+      "JOB_0016": "Vector similarity score: 0.4985",
+      "JOB_0018": "Vector similarity score: 0.3953",
+      "JOB_0002": "Vector similarity score: 0.3069",
+      "JOB_0001": "Vector similarity score: 0.3946",
+      "JOB_0008": "Vector similarity score: 0.3401",
+      "JOB_0004": "Vector similarity score: 0.3195"
+    }
+  },
+  "SEEKER_0039": {
+    "ranked_job_ids": [
+      "JOB_0013",
+      "JOB_0000",
+      "JOB_0014",
+      "JOB_0016",
+      "JOB_0014",
+      "JOB_0017",
+      "JOB_0011",
+      "JOB_0007",
+      "JOB_0015",
+      "JOB_0002"
+    ],
+    "reasons": {
+      "JOB_0013": "Vector similarity score: 0.437",
+      "JOB_0000": "Vector similarity score: 0.4231",
+      "JOB_0014": "Vector similarity score: 0.3705",
+      "JOB_0016": "Vector similarity score: 0.3022",
+      "JOB_0017": "Vector similarity score: 0.3236",
+      "JOB_0011": "Vector similarity score: 0.4369",
+      "JOB_0007": "Vector similarity score: 0.4624",
+      "JOB_0015": "Vector similarity score: 0.4756",
+      "JOB_0002": "Vector similarity score: 0.3715"
+    }
+  },
+  "SEEKER_0040": {
+    "ranked_job_ids": [
+      "JOB_0004",
+      "JOB_0008",
+      "JOB_0006",
+      "JOB_0019",
+      "JOB_0003",
+      "JOB_0001",
+      "JOB_0002",
+      "JOB_0010",
+      "JOB_0016",
+      "JOB_0002"
+    ],
+    "reasons": {
+      "JOB_0004": "Vector similarity score: 0.4124",
+      "JOB_0008": "Vector similarity score: 0.4108",
+      "JOB_0006": "Vector similarity score: 0.3328",
+      "JOB_0019": "Vector similarity score: 0.3402",
+      "JOB_0003": "Vector similarity score: 0.3421",
+      "JOB_0001": "Vector similarity score: 0.4667",
+      "JOB_0002": "Vector similarity score: 0.4828",
+      "JOB_0010": "Vector similarity score: 0.4277",
+      "JOB_0016": "Vector similarity score: 0.4908"
+    }
+  },
+  "SEEKER_0041": {
+    "ranked_job_ids": [
+      "JOB_0012",
+      "JOB_0008",
+      "JOB_0016",
+      "JOB_0012",
+      "JOB_0000",
+      "JOB_0013",
+      "JOB_0002",
+      "JOB_0018",
+      "JOB_0007",
+      "JOB_0001"
+    ],
+    "reasons": {
+      "JOB_0012": "Vector similarity score: 0.3955",
+      "JOB_0008": "Vector similarity score: 0.4626",
+      "JOB_0016": "Vector similarity score: 0.3472",
+      "JOB_0000": "Vector similarity score: 0.4664",
+      "JOB_0013": "Vector similarity score: 0.391",
+      "JOB_0002": "Vector similarity score: 0.4162",
+      "JOB_0018": "Vector similarity score: 0.4789",
+      "JOB_0007": "Vector similarity score: 0.4597",
+      "JOB_0001": "Vector similarity score: 0.3017"
+    }
+  },
+  "SEEKER_0042": {
+    "ranked_job_ids": [
+      "JOB_0006",
+      "JOB_0002",
+      "JOB_0019",
+      "JOB_0012",
+      "JOB_0007",
+      "JOB_0011",
+      "JOB_0017",
+      "JOB_0006",
+      "JOB_0016",
+      "JOB_0017"
+    ],
+    "reasons": {
+      "JOB_0006": "Vector similarity score: 0.4378",
+      "JOB_0002": "Vector similarity score: 0.3475",
+      "JOB_0019": "Vector similarity score: 0.472",
+      "JOB_0012": "Vector similarity score: 0.4409",
+      "JOB_0007": "Vector similarity score: 0.4469",
+      "JOB_0011": "Vector similarity score: 0.4992",
+      "JOB_0017": "Vector similarity score: 0.3765",
+      "JOB_0016": "Vector similarity score: 0.4213"
+    }
+  },
+  "SEEKER_0043": {
+    "ranked_job_ids": [
+      "JOB_0002",
+      "JOB_0009",
+      "JOB_0000",
+      "JOB_0014",
+      "JOB_0010",
+      "JOB_0017",
+      "JOB_0017",
+      "JOB_0015",
+      "JOB_0008",
+      "JOB_0002"
+    ],
+    "reasons": {
+      "JOB_0002": "Vector similarity score: 0.4584",
+      "JOB_0009": "Vector similarity score: 0.381",
+      "JOB_0000": "Vector similarity score: 0.4977",
+      "JOB_0014": "Vector similarity score: 0.4346",
+      "JOB_0010": "Vector similarity score: 0.3455",
+      "JOB_0017": "Vector similarity score: 0.4441",
+      "JOB_0015": "Vector similarity score: 0.4779",
+      "JOB_0008": "Vector similarity score: 0.3685"
+    }
+  },
+  "SEEKER_0044": {
+    "ranked_job_ids": [
+      "JOB_0017",
+      "JOB_0017",
+      "JOB_0015",
+      "JOB_0008",
+      "JOB_0010",
+      "JOB_0004",
+      "JOB_0019",
+      "JOB_0012",
+      "JOB_0005",
+      "JOB_0002"
+    ],
+    "reasons": {
+      "JOB_0017": "Vector similarity score: 0.3922",
+      "JOB_0015": "Vector similarity score: 0.3075",
+      "JOB_0008": "Vector similarity score: 0.4545",
+      "JOB_0010": "Vector similarity score: 0.4151",
+      "JOB_0004": "Vector similarity score: 0.4692",
+      "JOB_0019": "Vector similarity score: 0.4662",
+      "JOB_0012": "Vector similarity score: 0.3769",
+      "JOB_0005": "Vector similarity score: 0.3973",
+      "JOB_0002": "Vector similarity score: 0.3127"
+    }
+  },
+  "SEEKER_0045": {
+    "ranked_job_ids": [
+      "JOB_0002",
+      "JOB_0011",
+      "JOB_0010",
+      "JOB_0001",
+      "JOB_0001",
+      "JOB_0004",
+      "JOB_0008",
+      "JOB_0005",
+      "JOB_0018",
+      "JOB_0006"
+    ],
+    "reasons": {
+      "JOB_0002": "Vector similarity score: 0.3068",
+      "JOB_0011": "Vector similarity score: 0.3096",
+      "JOB_0010": "Vector similarity score: 0.4978",
+      "JOB_0001": "Vector similarity score: 0.3212",
+      "JOB_0004": "Vector similarity score: 0.3969",
+      "JOB_0008": "Vector similarity score: 0.4777",
+      "JOB_0005": "Vector similarity score: 0.4646",
+      "JOB_0018": "Vector similarity score: 0.4439",
+      "JOB_0006": "Vector similarity score: 0.4219"
+    }
+  },
+  "SEEKER_0046": {
+    "ranked_job_ids": [
+      "JOB_0017",
+      "JOB_0004",
+      "JOB_0017",
+      "JOB_0016",
+      "JOB_0009",
+      "JOB_0002",
+      "JOB_0000",
+      "JOB_0010",
+      "JOB_0007",
+      "JOB_0016"
+    ],
+    "reasons": {
+      "JOB_0017": "Vector similarity score: 0.41",
+      "JOB_0004": "Vector similarity score: 0.379",
+      "JOB_0016": "Vector similarity score: 0.4599",
+      "JOB_0009": "Vector similarity score: 0.4242",
+      "JOB_0002": "Vector similarity score: 0.3417",
+      "JOB_0000": "Vector similarity score: 0.3436",
+      "JOB_0010": "Vector similarity score: 0.4164",
+      "JOB_0007": "Vector similarity score: 0.4486"
+    }
+  },
+  "SEEKER_0047": {
+    "ranked_job_ids": [
+      "JOB_0006",
+      "JOB_0006",
+      "JOB_0004",
+      "JOB_0009",
+      "JOB_0010",
+      "JOB_0016",
+      "JOB_0003",
+      "JOB_0017",
+      "JOB_0016",
+      "JOB_0001"
+    ],
+    "reasons": {
+      "JOB_0006": "Vector similarity score: 0.4456",
+      "JOB_0004": "Vector similarity score: 0.4233",
+      "JOB_0009": "Vector similarity score: 0.4171",
+      "JOB_0010": "Vector similarity score: 0.3495",
+      "JOB_0016": "Vector similarity score: 0.4106",
+      "JOB_0003": "Vector similarity score: 0.35",
+      "JOB_0017": "Vector similarity score: 0.3149",
+      "JOB_0001": "Vector similarity score: 0.3664"
+    }
+  },
+  "SEEKER_0048": {
+    "ranked_job_ids": [
+      "JOB_0001",
+      "JOB_0016",
+      "JOB_0002",
+      "JOB_0010",
+      "JOB_0008",
+      "JOB_0007",
+      "JOB_0018",
+      "JOB_0019",
+      "JOB_0005",
+      "JOB_0019"
+    ],
+    "reasons": {
+      "JOB_0001": "Vector similarity score: 0.485",
+      "JOB_0016": "Vector similarity score: 0.3029",
+      "JOB_0002": "Vector similarity score: 0.337",
+      "JOB_0010": "Vector similarity score: 0.4595",
+      "JOB_0008": "Vector similarity score: 0.4159",
+      "JOB_0007": "Vector similarity score: 0.4618",
+      "JOB_0018": "Vector similarity score: 0.4871",
+      "JOB_0019": "Vector similarity score: 0.3184",
+      "JOB_0005": "Vector similarity score: 0.476"
+    }
+  },
+  "SEEKER_0049": {
+    "ranked_job_ids": [
+      "JOB_0010",
+      "JOB_0018",
+      "JOB_0011",
+      "JOB_0010",
+      "JOB_0007",
+      "JOB_0014",
+      "JOB_0004",
+      "JOB_0016",
+      "JOB_0002",
+      "JOB_0008"
+    ],
+    "reasons": {
+      "JOB_0010": "Vector similarity score: 0.3307",
+      "JOB_0018": "Vector similarity score: 0.4375",
+      "JOB_0011": "Vector similarity score: 0.3729",
+      "JOB_0007": "Vector similarity score: 0.3525",
+      "JOB_0014": "Vector similarity score: 0.4798",
+      "JOB_0004": "Vector similarity score: 0.4286",
+      "JOB_0016": "Vector similarity score: 0.381",
+      "JOB_0002": "Vector similarity score: 0.4774",
+      "JOB_0008": "Vector similarity score: 0.3212"
+    }
+  }
+}

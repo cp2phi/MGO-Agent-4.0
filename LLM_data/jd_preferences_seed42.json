@@ -1,0 +1,322 @@
+{
+  "JOB_0000": {
+    "ranked_candidate_ids": [
+      "SEEKER_0038",
+      "SEEKER_0046",
+      "SEEKER_0044",
+      "SEEKER_0004",
+      "SEEKER_0049"
+    ],
+    "reasons": {
+      "SEEKER_0038": "Vector similarity score: 0.4186",
+      "SEEKER_0046": "Vector similarity score: 0.4072",
+      "SEEKER_0044": "Vector similarity score: 0.4459",
+      "SEEKER_0004": "Vector similarity score: 0.4045",
+      "SEEKER_0049": "Vector similarity score: 0.4158"
+    }
+  },
+  "JOB_0001": {
+    "ranked_candidate_ids": [
+      "SEEKER_0033",
+      "SEEKER_0035",
+      "SEEKER_0043",
+      "SEEKER_0042",
+      "SEEKER_0048"
+    ],
+    "reasons": {
+      "SEEKER_0033": "Vector similarity score: 0.4708",
+      "SEEKER_0035": "Vector similarity score: 0.4554",
+      "SEEKER_0043": "Vector similarity score: 0.4787",
+      "SEEKER_0042": "Vector similarity score: 0.4549",
+      "SEEKER_0048": "Vector similarity score: 0.4654"
+    }
+  },
+  "JOB_0002": {
+    "ranked_candidate_ids": [
+      "SEEKER_0029",
+      "SEEKER_0008",
+      "SEEKER_0028",
+      "SEEKER_0042",
+      "SEEKER_0016"
+    ],
+    "reasons": {
+      "SEEKER_0029": "Vector similarity score: 0.4678",
+      "SEEKER_0008": "Vector similarity score: 0.469",
+      "SEEKER_0028": "Vector similarity score: 0.4927",
+      "SEEKER_0042": "Vector similarity score: 0.4858",
+      "SEEKER_0016": "Vector similarity score: 0.495"
+    }
+  },
+  "JOB_0003": {
+    "ranked_candidate_ids": [
+      "SEEKER_0020",
+      "SEEKER_0028",
+      "SEEKER_0023",
+      "SEEKER_0027",
+      "SEEKER_0030"
+    ],
+    "reasons": {
+      "SEEKER_0020": "Vector similarity score: 0.4174",
+      "SEEKER_0028": "Vector similarity score: 0.4129",
+      "SEEKER_0023": "Vector similarity score: 0.4236",
+      "SEEKER_0027": "Vector similarity score: 0.4328",
+      "SEEKER_0030": "Vector similarity score: 0.4121"
+    }
+  },
+  "JOB_0004": {
+    "ranked_candidate_ids": [
+      "SEEKER_0030",
+      "SEEKER_0047",
+      "SEEKER_0032",
+      "SEEKER_0049",
+      "SEEKER_0015"
+    ],
+    "reasons": {
+      "SEEKER_0030": "Vector similarity score: 0.4212",
+      "SEEKER_0047": "Vector similarity score: 0.4096",
+      "SEEKER_0032": "Vector similarity score: 0.4421",
+      "SEEKER_0049": "Vector similarity score: 0.4027",
+      "SEEKER_0015": "Vector similarity score: 0.4133"
+    }
+  },
+  "JOB_0005": {
+    "ranked_candidate_ids": [
+      "SEEKER_0037",
+      "SEEKER_0024",
+      "SEEKER_0009",
+      "SEEKER_0026",
+      "SEEKER_0022"
+    ],
+    "reasons": {
+      "SEEKER_0037": "Vector similarity score: 0.4071",
+      "SEEKER_0024": "Vector similarity score: 0.444",
+      "SEEKER_0009": "Vector similarity score: 0.4288",
+      "SEEKER_0026": "Vector similarity score: 0.4127",
+      "SEEKER_0022": "Vector similarity score: 0.4417"
+    }
+  },
+  "JOB_0006": {
+    "ranked_candidate_ids": [
+      "SEEKER_0046",
+      "SEEKER_0017",
+      "SEEKER_0010",
+      "SEEKER_0033",
+      "SEEKER_0038"
+    ],
+    "reasons": {
+      "SEEKER_0046": "Vector similarity score: 0.4377",
+      "SEEKER_0017": "Vector similarity score: 0.4136",
+      "SEEKER_0010": "Vector similarity score: 0.4236",
+      "SEEKER_0033": "Vector similarity score: 0.4278",
+      "SEEKER_0038": "Vector similarity score: 0.4013"
+    }
+  },
+  "JOB_0007": {
+    "ranked_candidate_ids": [
+      "SEEKER_0046",
+      "SEEKER_0035",
+      "SEEKER_0015",
+      "SEEKER_0023",
+      "SEEKER_0001"
+    ],
+    "reasons": {
+      "SEEKER_0046": "Vector similarity score: 0.4264",
+      "SEEKER_0035": "Vector similarity score: 0.4367",
+      "SEEKER_0015": "Vector similarity score: 0.4132",
+      "SEEKER_0023": "Vector similarity score: 0.4346",
+      "SEEKER_0001": "Vector similarity score: 0.4166"
+    }
+  },
+  "JOB_0008": {
+    "ranked_candidate_ids": [
+      "SEEKER_0049",
+      "SEEKER_0047",
+      "SEEKER_0028",
+      "SEEKER_0032",
+      "SEEKER_0038"
+    ],
+    "reasons": {
+      "SEEKER_0049": "Vector similarity score: 0.4553",
+      "SEEKER_0047": "Vector similarity score: 0.4644",
+      "SEEKER_0028": "Vector similarity score: 0.4909",
+      "SEEKER_0032": "Vector similarity score: 0.4708",
+      "SEEKER_0038": "Vector similarity score: 0.4709"
+    }
+  },
+  "JOB_0009": {
+    "ranked_candidate_ids": [
+      "SEEKER_0033",
+      "SEEKER_0011",
+      "SEEKER_0036",
+      "SEEKER_0013",
+      "SEEKER_0016"
+    ],
+    "reasons": {
+      "SEEKER_0033": "Vector similarity score: 0.4066",
+      "SEEKER_0011": "Vector similarity score: 0.4487",
+      "SEEKER_0036": "Vector similarity score: 0.4106",
+      "SEEKER_0013": "Vector similarity score: 0.4011",
+      "SEEKER_0016": "Vector similarity score: 0.4384"
+    }
+  },
+  "JOB_0010": {
+    "ranked_candidate_ids": [
+      "SEEKER_0037",
+      "SEEKER_0048",
+      "SEEKER_0034",
+      "SEEKER_0029",
+      "SEEKER_0009"
+    ],
+    "reasons": {
+      "SEEKER_0037": "Vector similarity score: 0.4484",
+      "SEEKER_0048": "Vector similarity score: 0.4395",
+      "SEEKER_0034": "Vector similarity score: 0.4204",
+      "SEEKER_0029": "Vector similarity score: 0.435",
+      "SEEKER_0009": "Vector similarity score: 0.4397"
+    }
+  },
+  "JOB_0011": {
+    "ranked_candidate_ids": [
+      "SEEKER_0022",
+      "SEEKER_0000",
+      "SEEKER_0032",
+      "SEEKER_0044",
+      "SEEKER_0037"
+    ],
+    "reasons": {
+      "SEEKER_0022": "Vector similarity score: 0.4283",
+      "SEEKER_0000": "Vector similarity score: 0.4387",
+      "SEEKER_0032": "Vector similarity score: 0.4103",
+      "SEEKER_0044": "Vector similarity score: 0.4485",
+      "SEEKER_0037": "Vector similarity score: 0.4407"
+    }
+  },
+  "JOB_0012": {
+    "ranked_candidate_ids": [
+      "SEEKER_0045",
+      "SEEKER_0034",
+      "SEEKER_0015",
+      "SEEKER_0027",
+      "SEEKER_0003"
+    ],
+    "reasons": {
+      "SEEKER_0045": "Vector similarity score: 0.4444",
+      "SEEKER_0034": "Vector similarity score: 0.4299",
+      "SEEKER_0015": "Vector similarity score: 0.4465",
+      "SEEKER_0027": "Vector similarity score: 0.4467",
+      "SEEKER_0003": "Vector similarity score: 0.4261"
+    }
+  },
+  "JOB_0013": {
+    "ranked_candidate_ids": [
+      "SEEKER_0019",
+      "SEEKER_0023",
+      "SEEKER_0028",
+      "SEEKER_0020",
+      "SEEKER_0001"
+    ],
+    "reasons": {
+      "SEEKER_0019": "Vector similarity score: 0.4214",
+      "SEEKER_0023": "Vector similarity score: 0.4293",
+      "SEEKER_0028": "Vector similarity score: 0.41",
+      "SEEKER_0020": "Vector similarity score: 0.4213",
+      "SEEKER_0001": "Vector similarity score: 0.4106"
+    }
+  },
+  "JOB_0014": {
+    "ranked_candidate_ids": [
+      "SEEKER_0001",
+      "SEEKER_0033",
+      "SEEKER_0031",
+      "SEEKER_0004",
+      "SEEKER_0049"
+    ],
+    "reasons": {
+      "SEEKER_0001": "Vector similarity score: 0.4017",
+      "SEEKER_0033": "Vector similarity score: 0.4196",
+      "SEEKER_0031": "Vector similarity score: 0.4368",
+      "SEEKER_0004": "Vector similarity score: 0.4158",
+      "SEEKER_0049": "Vector similarity score: 0.4347"
+    }
+  },
+  "JOB_0015": {
+    "ranked_candidate_ids": [
+      "SEEKER_0044",
+      "SEEKER_0015",
+      "SEEKER_0040",
+      "SEEKER_0038",
+      "SEEKER_0003"
+    ],
+    "reasons": {
+      "SEEKER_0044": "Vector similarity score: 0.4075",
+      "SEEKER_0015": "Vector similarity score: 0.4383",
+      "SEEKER_0040": "Vector similarity score: 0.4212",
+      "SEEKER_0038": "Vector similarity score: 0.4418",
+      "SEEKER_0003": "Vector similarity score: 0.4409"
+    }
+  },
+  "JOB_0016": {
+    "ranked_candidate_ids": [
+      "SEEKER_0049",
+      "SEEKER_0026",
+      "SEEKER_0003",
+      "SEEKER_0034",
+      "SEEKER_0025"
+    ],
+    "reasons": {
+      "SEEKER_0049": "Vector similarity score: 0.4687",
+      "SEEKER_0026": "Vector similarity score: 0.4858",
+      "SEEKER_0003": "Vector similarity score: 0.4808",
+      "SEEKER_0034": "Vector similarity score: 0.4916",
+      "SEEKER_0025": "Vector similarity score: 0.4503"
+    }
+  },
+  "JOB_0017": {
+    "ranked_candidate_ids": [
+      "SEEKER_0002",
+      "SEEKER_0044",
+      "SEEKER_0037",
+      "SEEKER_0038",
+      "SEEKER_0012"
+    ],
+    "reasons": {
+      "SEEKER_0002": "Vector similarity score: 0.4601",
+      "SEEKER_0044": "Vector similarity score: 0.4557",
+      "SEEKER_0037": "Vector similarity score: 0.4654",
+      "SEEKER_0038": "Vector similarity score: 0.4945",
+      "SEEKER_0012": "Vector similarity score: 0.4699"
+    }
+  },
+  "JOB_0018": {
+    "ranked_candidate_ids": [
+      "SEEKER_0036",
+      "SEEKER_0014",
+      "SEEKER_0002",
+      "SEEKER_0045",
+      "SEEKER_0005"
+    ],
+    "reasons": {
+      "SEEKER_0036": "Vector similarity score: 0.4462",
+      "SEEKER_0014": "Vector similarity score: 0.4232",
+      "SEEKER_0002": "Vector similarity score: 0.4394",
+      "SEEKER_0045": "Vector similarity score: 0.4112",
+      "SEEKER_0005": "Vector similarity score: 0.4058"
+    }
+  },
+  "JOB_0019": {
+    "ranked_candidate_ids": [
+      "SEEKER_0024",
+      "SEEKER_0016",
+      "SEEKER_0041",
+      "SEEKER_0036",
+      "SEEKER_0020"
+    ],
+    "reasons": {
+      "SEEKER_0024": "Vector similarity score: 0.4278",
+      "SEEKER_0016": "Vector similarity score: 0.4055",
+      "SEEKER_0041": "Vector similarity score: 0.4212",
+      "SEEKER_0036": "Vector similarity score: 0.4439",
+      "SEEKER_0020": "Vector similarity score: 0.4446"
+    }
+  }
+}

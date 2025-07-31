@@ -1,0 +1,5 @@
+Model,Tier,Avg. NDCG@10 ↑,Match Success Rate ↑,User AHQ ↑,Avg. User Rank ↓
+Top-k Greedy,High-Competitiveness (Top 20%),1.000,0.450,0.973,1.00
+Top-k Greedy,Lower-Competitiveness (Bot 20%),1.000,0.740,0.842,1.00
+MGO-Agent (Full),High-Competitiveness (Top 20%),0.561,1.000,0.867,6.41
+MGO-Agent (Full),Lower-Competitiveness (Bot 20%),0.800,0.970,0.815,3.33

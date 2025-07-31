@@ -1,0 +1,5 @@
+Model,Tier,Job Fill Rate ↑,Avg. Hiring Quality (AHQ) ↑,Avg. Job Rank ↓
+Top-k Greedy,Top-Tier Jobs (Top 20%),7.000,0.980,4.00
+Top-k Greedy,Long-Tail Jobs (Bot 20%),0.900,0.838,1.59
+MGO-Agent (Full),Top-Tier Jobs (Top 20%),6.850,0.979,3.88
+MGO-Agent (Full),Long-Tail Jobs (Bot 20%),5.700,0.712,2.73

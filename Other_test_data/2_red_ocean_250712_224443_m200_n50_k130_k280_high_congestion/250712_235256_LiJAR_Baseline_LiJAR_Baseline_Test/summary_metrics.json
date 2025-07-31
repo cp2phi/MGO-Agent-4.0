@@ -1,0 +1,52 @@
+[
+    {
+        "round": 0,
+        "round_matches": 18,
+        "total_matches": 18
+    },
+    {
+        "round": 1,
+        "round_matches": 6,
+        "total_matches": 24
+    },
+    {
+        "round": 2,
+        "round_matches": 5,
+        "total_matches": 29
+    },
+    {
+        "round": 3,
+        "round_matches": 3,
+        "total_matches": 32
+    },
+    {
+        "round": 4,
+        "round_matches": 4,
+        "total_matches": 36
+    },
+    {
+        "round": 5,
+        "round_matches": 4,
+        "total_matches": 40
+    },
+    {
+        "round": 6,
+        "round_matches": 3,
+        "total_matches": 43
+    },
+    {
+        "round": 7,
+        "round_matches": 2,
+        "total_matches": 45
+    },
+    {
+        "round": 8,
+        "round_matches": 2,
+        "total_matches": 47
+    },
+    {
+        "round": 9,
+        "round_matches": 1,
+        "total_matches": 48
+    }
+]

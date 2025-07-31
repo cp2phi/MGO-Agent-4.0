@@ -1,0 +1,59 @@
+{
+  "hiring_personality_distribution": {
+    "prefers_experience": 0.3,
+    "prefers_potential": 0.25,
+    "culture_fit_focused": 0.2,
+    "fast_paced_environment": 0.15,
+    "mission_driven": 0.1
+  },
+  "industry_distribution": {
+    "Technology": 0.4,
+    "Finance": 0.25,
+    "Healthcare": 0.12,
+    "Education": 0.08,
+    "Manufacturing": 0.07,
+    "Retail": 0.05,
+    "Other": 0.03
+  },
+  "required_experience_distribution": {
+    "0-2": 0.3,
+    "2-5": 0.45,
+    "5+": 0.25
+  },
+  "salary_range_distribution": {
+    "20k-40k": 0.2,
+    "40k-60k": 0.35,
+    "60k-80k": 0.25,
+    "80k-100k": 0.12,
+    "100k-120k": 0.05,
+    "120k+": 0.03
+  },
+  "location_distribution": {
+    "North": 0.35,
+    "South": 0.25,
+    "East": 0.2,
+    "West": 0.2
+  },
+  "job_title_distribution": {
+    "Software Engineer": 0.15,
+    "Data Analyst": 0.1,
+    "Financial Analyst": 0.08,
+    "Marketing Specialist": 0.07,
+    "HR Manager": 0.06,
+    "Sales Representative": 0.06,
+    "Project Manager": 0.05,
+    "Product Manager": 0.05,
+    "UX Designer": 0.04,
+    "Accountant": 0.04,
+    "Nurse": 0.03,
+    "Teacher": 0.03,
+    "Operations Manager": 0.03,
+    "Business Analyst": 0.03,
+    "Customer Support": 0.03,
+    "Graphic Designer": 0.02,
+    "Content Writer": 0.02,
+    "Research Scientist": 0.02,
+    "Mechanical Engineer": 0.02,
+    "Electrical Engineer": 0.02
+  }
+}

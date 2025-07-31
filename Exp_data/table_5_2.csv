@@ -1,0 +1,5 @@
+Market Scenario,Model,GMR ↑,Gini ↓,Avg. NDCG@10 ↑,Job AHQ ↑,User AHQ ↑,Avg. User Rank ↓,Avg. Job Rank ↓
+Blue Sea,MGO-Agent (Full),0.998,0.380,0.873,0.836,0.836,1.755,2.790
+Blue Sea,Top-k Greedy,0.778,0.730,1.000,0.849,0.849,1.000,3.102
+Multi Polar,MGO-Agent (Full),0.998,0.409,0.799,0.921,0.921,2.387,3.026
+Multi Polar,Top-k Greedy,0.674,0.720,1.000,0.961,0.961,1.000,3.522

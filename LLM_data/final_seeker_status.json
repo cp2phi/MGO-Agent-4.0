@@ -1,0 +1,3248 @@
+[
+    {
+        "seeker_id": "SEEKER_0000",
+        "profile": {
+            "gender": "Male",
+            "age": "28",
+            "industry": "Healthcare",
+            "skills": [
+                "Health Education",
+                "Lesson Planning",
+                "Patient Communication",
+                "Public Speaking",
+                "Curriculum Development",
+                "Basic First Aid",
+                "Team Collaboration",
+                "Classroom Management",
+                "Microsoft Office",
+                "Empathy"
+            ],
+            "experience_years": "2",
+            "education": [
+                {
+                    "degree": "Bachelor of Science",
+                    "field": "Health Sciences",
+                    "year": "2019"
+                },
+                {
+                    "degree": "Certificate",
+                    "field": "Teaching in Healthcare",
+                    "year": "2020"
+                }
+            ],
+            "current_job_title": "Health Education Teacher",
+            "salary_expectation": "70,000",
+            "location": "West",
+            "work_history": [
+                {
+                    "title": "Health Education Teacher",
+                    "company": "Westview Community Health Center",
+                    "duration": "2021 - Present",
+                    "responsibilities": [
+                        "Develop and deliver health education lessons to diverse groups of students and community members",
+                        "Collaborate with healthcare professionals to design curriculum on wellness, nutrition, and disease prevention",
+                        "Organize workshops and seminars on public health topics",
+                        "Assess learning outcomes and adapt teaching methods to improve engagement"
+                    ]
+                },
+                {
+                    "title": "Teaching Assistant (Health Sciences)",
+                    "company": "West Regional College",
+                    "duration": "2019 - 2021",
+                    "responsibilities": [
+                        "Assisted lead instructors in preparing and delivering lectures on health-related subjects",
+                        "Supported students with coursework and provided additional tutoring as needed",
+                        "Helped coordinate community outreach programs focused on health awareness"
+                    ]
+                }
+            ]
+        },
+        "summary": "Motivated and compassionate Health Education Teacher with 2 years of experience in delivering engaging health and wellness programs. Skilled in curriculum development, public speaking, and fostering positive learning environments. Dedicated to promoting healthy lifestyles and empowering individuals through education. Seeking to leverage expertise in health sciences and teaching to contribute to impactful healthcare education initiatives.",
+        "dynamic_state": {
+            "risk_aversion": 0.2,
+            "fail_count": 0
+        },
+        "status": "matched"
+    },
+    {
+        "seeker_id": "SEEKER_0001",
+        "profile": {
+            "gender": "Female",
+            "age": "23",
+            "industry": "Technology",
+            "skills": [
+                "Financial Reporting",
+                "Accounts Payable",
+                "Accounts Receivable",
+                "Excel",
+                "QuickBooks",
+                "Data Analysis",
+                "Attention to Detail",
+                "Time Management",
+                "SAP",
+                "Communication"
+            ],
+            "experience_years": "2",
+            "education": [
+                {
+                    "degree": "Bachelor of Science",
+                    "field": "Accounting",
+                    "year": "2021"
+                }
+            ],
+            "current_job_title": "Accountant",
+            "salary_expectation": "70,000",
+            "location": "South",
+            "work_history": [
+                {
+                    "title": "Accountant",
+                    "company": "TechNova Solutions",
+                    "duration": "Jul 2021 - Present",
+                    "responsibilities": [
+                        "Prepared monthly, quarterly, and annual financial reports for management review",
+                        "Managed accounts payable and receivable processes using QuickBooks and SAP",
+                        "Assisted with budget planning and variance analysis for technology projects",
+                        "Collaborated with cross-functional teams to ensure accurate financial data entry",
+                        "Supported external audits by providing necessary documentation and reconciliations"
+                    ]
+                },
+                {
+                    "title": "Accounting Intern",
+                    "company": "DigitalEdge Systems",
+                    "duration": "Jan 2021 - Jun 2021",
+                    "responsibilities": [
+                        "Assisted in processing invoices and expense reports",
+                        "Helped maintain accurate records of financial transactions",
+                        "Supported the finance team in preparing tax documents and compliance reports"
+                    ]
+                }
+            ]
+        },
+        "summary": "Detail-oriented and analytical Accountant with 2 years of experience in the technology sector. Skilled in financial reporting, data analysis, and the use of accounting software such as QuickBooks and SAP. Adept at managing accounts, supporting audits, and collaborating with cross-functional teams. Committed to delivering accurate and timely financial information to support business decision-making.",
+        "dynamic_state": {
+            "risk_aversion": 0.2,
+            "fail_count": 0
+        },
+        "status": "matched"
+    },
+    {
+        "seeker_id": "SEEKER_0002",
+        "profile": {
+            "gender": "Female",
+            "age": "38",
+            "industry": "Finance",
+            "skills": [
+                "Data Analysis",
+                "Microsoft Excel",
+                "SQL",
+                "Financial Reporting",
+                "Data Visualization",
+                "Python (Pandas, NumPy)",
+                "Attention to Detail",
+                "Problem Solving",
+                "Power BI",
+                "Statistical Analysis"
+            ],
+            "experience_years": "2",
+            "education": [
+                {
+                    "degree": "Bachelor of Science",
+                    "field": "Economics",
+                    "year": "2010"
+                },
+                {
+                    "degree": "Postgraduate Diploma",
+                    "field": "Data Analytics",
+                    "year": "2021"
+                }
+            ],
+            "current_job_title": "Data Analyst",
+            "salary_expectation": "30,000",
+            "location": "North",
+            "work_history": [
+                {
+                    "title": "Data Analyst",
+                    "company": "Northern Financial Solutions Ltd.",
+                    "duration": "2022 - Present",
+                    "responsibilities": [
+                        "Analyzed large financial datasets to identify trends and support business decisions",
+                        "Developed and maintained dashboards using Power BI for monthly financial reporting",
+                        "Collaborated with finance teams to automate data collection and reporting processes",
+                        "Prepared ad-hoc reports for management and stakeholders"
+                    ]
+                },
+                {
+                    "title": "Junior Data Analyst (Intern)",
+                    "company": "Arctic Capital Advisors",
+                    "duration": "2021 - 2022",
+                    "responsibilities": [
+                        "Assisted in cleaning and validating financial data for quarterly reports",
+                        "Supported senior analysts in preparing data visualizations and presentations",
+                        "Conducted basic statistical analysis to support investment research"
+                    ]
+                }
+            ]
+        },
+        "summary": "Detail-oriented Data Analyst with 2 years of experience in the finance industry, skilled in data analysis, financial reporting, and data visualization. Adept at leveraging analytical tools to drive business insights and support decision-making. Strong educational background in economics and data analytics, with a proven ability to work collaboratively in fast-paced environments.",
+        "dynamic_state": {
+            "risk_aversion": 0.2,
+            "fail_count": 0
+        },
+        "status": "matched"
+    },
+    {
+        "seeker_id": "SEEKER_0003",
+        "profile": {
+            "gender": "Male",
+            "age": "23",
+            "industry": "Technology",
+            "skills": [
+                "Java",
+                "Python",
+                "JavaScript",
+                "React",
+                "SQL",
+                "Git",
+                "REST APIs",
+                "Unit Testing",
+                "Agile Methodologies"
+            ],
+            "experience_years": "2",
+            "education": [
+                {
+                    "degree": "Bachelor of Technology",
+                    "field": "Computer Science and Engineering",
+                    "year": "2022"
+                }
+            ],
+            "current_job_title": "Software Engineer",
+            "salary_expectation": "30k",
+            "location": "North",
+            "work_history": [
+                {
+                    "title": "Software Engineer",
+                    "company": "TechNova Solutions",
+                    "duration": "Jul 2022 - Present",
+                    "responsibilities": [
+                        "Developed and maintained web applications using JavaScript and React.",
+                        "Collaborated with cross-functional teams to design and implement RESTful APIs.",
+                        "Participated in code reviews and contributed to improving code quality.",
+                        "Wrote unit and integration tests to ensure software reliability."
+                    ]
+                },
+                {
+                    "title": "Software Engineering Intern",
+                    "company": "InnoSoft Labs",
+                    "duration": "Jan 2022 - Jun 2022",
+                    "responsibilities": [
+                        "Assisted in developing backend modules using Python and SQL.",
+                        "Worked with senior engineers to debug and optimize existing code.",
+                        "Documented technical processes and contributed to team knowledge base."
+                    ]
+                }
+            ]
+        },
+        "summary": "Motivated Software Engineer with 2 years of experience in developing scalable web applications and APIs. Proficient in Java, Python, and JavaScript, with a strong foundation in computer science principles. Adept at working in agile environments and collaborating with diverse teams to deliver high-quality software solutions.",
+        "dynamic_state": {
+            "risk_aversion": 0.2591817793182821,
+            "fail_count": 1
+        },
+        "status": "unmatched"
+    },
+    {
+        "seeker_id": "SEEKER_0004",
+        "profile": {
+            "gender": "Male",
+            "age": "28",
+            "industry": "Retail",
+            "skills": [
+                "Data Analysis",
+                "SQL",
+                "Microsoft Excel",
+                "Power BI",
+                "Retail Analytics",
+                "Python",
+                "Data Visualization",
+                "Inventory Management",
+                "Sales Forecasting",
+                "Customer Insights",
+                "Dashboard Development",
+                "Problem Solving",
+                "Communication"
+            ],
+            "experience_years": "7",
+            "education": [
+                {
+                    "degree": "Bachelor of Science",
+                    "field": "Statistics",
+                    "year": "2017"
+                }
+            ],
+            "current_job_title": "Data Analyst",
+            "salary_expectation": "40k-60k",
+            "location": "East",
+            "work_history": [
+                {
+                    "title": "Data Analyst",
+                    "company": "EastMart Retail Group",
+                    "duration": "2020 - Present",
+                    "responsibilities": [
+                        "Analyzed sales and inventory data to identify trends and optimize stock levels.",
+                        "Developed interactive dashboards and reports using Power BI for management decision-making.",
+                        "Collaborated with marketing and operations teams to provide actionable customer insights.",
+                        "Automated data collection and reporting processes, reducing manual workload by 30%."
+                    ]
+                },
+                {
+                    "title": "Junior Data Analyst",
+                    "company": "ShopEase Supermarkets",
+                    "duration": "2017 - 2020",
+                    "responsibilities": [
+                        "Supported senior analysts in preparing weekly and monthly sales reports.",
+                        "Maintained and updated databases using SQL and Excel.",
+                        "Assisted in forecasting sales and demand planning for multiple store locations.",
+                        "Conducted ad-hoc analysis to support merchandising and pricing strategies."
+                    ]
+                }
+            ]
+        },
+        "summary": "Detail-oriented Data Analyst with over 7 years of experience in the retail industry, specializing in data-driven decision support, sales forecasting, and customer insights. Proficient in SQL, Excel, and Power BI, with a proven track record of optimizing inventory and supporting business growth through actionable analytics.",
+        "dynamic_state": {
+            "risk_aversion": 0.2591817793182821,
+            "fail_count": 1
+        },
+        "status": "unmatched"
+    },
+    {
+        "seeker_id": "SEEKER_0005",
+        "profile": {
+            "gender": "Male",
+            "age": "28",
+            "industry": "Finance",
+            "skills": [
+                "Financial Product Sales",
+                "Client Relationship Management",
+                "Negotiation",
+                "Market Research",
+                "CRM Software",
+                "Presentation Skills",
+                "Data Analysis",
+                "Team Collaboration"
+            ],
+            "experience_years": "2",
+            "education": [
+                {
+                    "degree": "Bachelor of Science",
+                    "field": "Finance",
+                    "year": "2018"
+                }
+            ],
+            "current_job_title": "Sales Representative",
+            "salary_expectation": "50,000",
+            "location": "North",
+            "work_history": [
+                {
+                    "title": "Sales Representative",
+                    "company": "Northern Financial Solutions",
+                    "duration": "2021 - Present",
+                    "responsibilities": [
+                        "Promote and sell financial products including investment plans and insurance policies to individual and corporate clients",
+                        "Develop and maintain strong client relationships to ensure repeat business and referrals",
+                        "Conduct market research to identify new business opportunities and client needs",
+                        "Prepare and deliver presentations to potential clients on financial products and services",
+                        "Utilize CRM software to track leads, manage client information, and monitor sales progress"
+                    ]
+                },
+                {
+                    "title": "Sales Associate (Intern)",
+                    "company": "Pinecrest Banking Group",
+                    "duration": "2020 - 2021",
+                    "responsibilities": [
+                        "Assisted senior sales staff in preparing client proposals and presentations",
+                        "Supported the sales team in lead generation and follow-up activities",
+                        "Conducted basic financial analysis to support client recommendations"
+                    ]
+                }
+            ]
+        },
+        "summary": "Motivated and results-driven Sales Representative with 2 years of experience in the finance industry. Skilled in promoting financial products, building client relationships, and leveraging market insights to drive sales growth. Adept at using CRM tools and delivering persuasive presentations. Seeking to further develop a career in financial sales with a reputable organization in the North region.",
+        "dynamic_state": {
+            "risk_aversion": 0.2591817793182821,
+            "fail_count": 1
+        },
+        "status": "unmatched"
+    },
+    {
+        "seeker_id": "SEEKER_0006",
+        "profile": {
+            "gender": "Male",
+            "age": "33",
+            "industry": "Finance",
+            "skills": [
+                "Financial Analysis",
+                "Data Interpretation",
+                "Microsoft Excel",
+                "Financial Modeling",
+                "Problem Solving",
+                "Attention to Detail",
+                "Technical Reporting",
+                "Project Management",
+                "Basic Accounting",
+                "Team Collaboration"
+            ],
+            "experience_years": "2",
+            "education": [
+                {
+                    "degree": "Bachelor of Engineering",
+                    "field": "Electrical Engineering",
+                    "year": "2014"
+                },
+                {
+                    "degree": "Postgraduate Diploma",
+                    "field": "Finance",
+                    "year": "2021"
+                }
+            ],
+            "current_job_title": "Electrical Engineer",
+            "salary_expectation": "30,000",
+            "location": "East",
+            "work_history": [
+                {
+                    "title": "Electrical Engineer",
+                    "company": "EastTech Solutions",
+                    "duration": "2021 - Present",
+                    "responsibilities": [
+                        "Analyzed project costs and prepared financial reports for engineering projects",
+                        "Collaborated with finance team to optimize resource allocation and budgeting",
+                        "Utilized Excel and data analysis tools to monitor project expenditures",
+                        "Assisted in preparing technical and financial documentation for stakeholders"
+                    ]
+                },
+                {
+                    "title": "Finance Intern",
+                    "company": "Bright Capital Advisors",
+                    "duration": "2020 - 2021",
+                    "responsibilities": [
+                        "Supported senior analysts in preparing financial models and forecasts",
+                        "Conducted market research and data analysis for investment projects",
+                        "Assisted in preparing client presentations and financial statements"
+                    ]
+                }
+            ]
+        },
+        "summary": "A detail-oriented professional with a background in electrical engineering and a strong interest in finance. Experienced in financial analysis, project budgeting, and technical reporting, with a proven ability to bridge technical and financial domains. Seeking to leverage analytical and quantitative skills in a finance-focused role.",
+        "dynamic_state": {
+            "risk_aversion": 0.2591817793182821,
+            "fail_count": 1
+        },
+        "status": "unmatched"
+    },
+    {
+        "seeker_id": "SEEKER_0007",
+        "profile": {
+            "gender": "Male",
+            "age": "24",
+            "industry": "Technology",
+            "skills": [
+                "B2B Sales",
+                "CRM Software (Salesforce, HubSpot)",
+                "Lead Generation",
+                "Negotiation",
+                "Technical Product Knowledge",
+                "Customer Relationship Management",
+                "Presentation Skills",
+                "Market Research",
+                "Account Management",
+                "Data Analysis"
+            ],
+            "experience_years": "4",
+            "education": [
+                {
+                    "degree": "Bachelor of Science",
+                    "field": "Information Technology",
+                    "year": "2020"
+                }
+            ],
+            "current_job_title": "Sales Representative",
+            "salary_expectation": "30,000",
+            "location": "North",
+            "work_history": [
+                {
+                    "title": "Sales Representative",
+                    "company": "TechNova Solutions",
+                    "duration": "2021 - Present",
+                    "responsibilities": [
+                        "Managed a portfolio of over 50 B2B clients in the technology sector",
+                        "Achieved 120% of annual sales targets for two consecutive years",
+                        "Conducted product demonstrations and technical presentations to prospective clients",
+                        "Utilized CRM tools to track leads, opportunities, and customer interactions"
+                    ]
+                },
+                {
+                    "title": "Sales Associate",
+                    "company": "DigitalEdge Systems",
+                    "duration": "2019 - 2021",
+                    "responsibilities": [
+                        "Supported senior sales team in lead generation and client outreach",
+                        "Assisted in preparing sales proposals and quotations for IT solutions",
+                        "Maintained customer database and provided after-sales support",
+                        "Participated in industry events and trade shows to promote company products"
+                    ]
+                }
+            ]
+        },
+        "summary": "Results-driven Sales Representative with 4 years of experience in the technology industry, specializing in B2B sales, client relationship management, and technical product presentations. Proven track record of exceeding sales targets and building strong client networks. Adept at leveraging CRM tools and market research to identify new business opportunities.",
+        "dynamic_state": {
+            "risk_aversion": 0.2591817793182821,
+            "fail_count": 1
+        },
+        "status": "unmatched"
+    },
+    {
+        "seeker_id": "SEEKER_0008",
+        "profile": {
+            "gender": "Male",
+            "age": "32",
+            "industry": "Finance",
+            "skills": [
+                "Financial Product Sales",
+                "Client Relationship Management",
+                "Negotiation",
+                "CRM Software (Salesforce)",
+                "Market Research",
+                "Presentation Skills",
+                "Lead Generation",
+                "Data Analysis",
+                "Team Collaboration",
+                "Time Management"
+            ],
+            "experience_years": "2",
+            "education": [
+                {
+                    "degree": "Bachelor of Science",
+                    "field": "Business Administration",
+                    "year": "2015"
+                }
+            ],
+            "current_job_title": "Sales Representative",
+            "salary_expectation": "120k+",
+            "location": "North",
+            "work_history": [
+                {
+                    "title": "Sales Representative",
+                    "company": "Northern Capital Finance",
+                    "duration": "2022 - Present",
+                    "responsibilities": [
+                        "Developed and maintained relationships with individual and corporate clients for financial products including investment portfolios and insurance solutions.",
+                        "Consistently exceeded quarterly sales targets by 15% through effective lead generation and consultative selling.",
+                        "Prepared and delivered presentations to clients on financial products and market trends.",
+                        "Utilized CRM software to track client interactions and sales pipeline."
+                    ]
+                },
+                {
+                    "title": "Sales Associate (Intern)",
+                    "company": "Pinecrest Financial Group",
+                    "duration": "2021 - 2022",
+                    "responsibilities": [
+                        "Assisted senior sales team in prospecting and qualifying leads for wealth management services.",
+                        "Conducted market research and competitor analysis to support sales strategies.",
+                        "Coordinated client meetings and prepared sales materials."
+                    ]
+                }
+            ]
+        },
+        "summary": "Results-driven Sales Representative with 2 years of experience in the finance industry, specializing in financial product sales and client relationship management. Adept at identifying client needs, delivering tailored solutions, and consistently exceeding sales targets. Strong communicator with a solid foundation in business administration and a passion for helping clients achieve their financial goals.",
+        "dynamic_state": {
+            "risk_aversion": 0.2591817793182821,
+            "fail_count": 1
+        },
+        "status": "unmatched"
+    },
+    {
+        "seeker_id": "SEEKER_0009",
+        "profile": {
+            "gender": "Male",
+            "age": "24",
+            "industry": "Technology",
+            "skills": [
+                "Data Analysis",
+                "SQL",
+                "Python",
+                "Tableau",
+                "Excel",
+                "Data Visualization",
+                "Statistical Analysis",
+                "Power BI",
+                "Machine Learning (basic)",
+                "Business Intelligence"
+            ],
+            "experience_years": "4",
+            "education": [
+                {
+                    "degree": "Bachelor of Science",
+                    "field": "Computer Science",
+                    "year": "2020"
+                }
+            ],
+            "current_job_title": "Data Analyst",
+            "salary_expectation": "50,000",
+            "location": "West",
+            "work_history": [
+                {
+                    "title": "Data Analyst",
+                    "company": "WestTech Solutions",
+                    "duration": "Aug 2021 - Present",
+                    "responsibilities": [
+                        "Developed and maintained dashboards using Tableau and Power BI to support business decision-making.",
+                        "Analyzed large datasets using SQL and Python to identify trends and actionable insights.",
+                        "Collaborated with cross-functional teams to define data requirements and deliver analytical solutions.",
+                        "Automated recurring reports, reducing manual effort by 30%."
+                    ]
+                },
+                {
+                    "title": "Junior Data Analyst",
+                    "company": "InnoData Systems",
+                    "duration": "Jul 2019 - Jul 2021",
+                    "responsibilities": [
+                        "Assisted in data cleaning, transformation, and visualization for client projects.",
+                        "Supported senior analysts in preparing monthly and quarterly business reports.",
+                        "Utilized Excel and SQL for ad-hoc data requests and reporting.",
+                        "Participated in the implementation of a new data warehouse system."
+                    ]
+                }
+            ]
+        },
+        "summary": "Detail-oriented Data Analyst with 4 years of experience in leveraging data-driven insights to support business growth. Proficient in SQL, Python, and data visualization tools such as Tableau and Power BI. Adept at transforming complex data into actionable strategies and collaborating with cross-functional teams to achieve organizational goals.",
+        "dynamic_state": {
+            "risk_aversion": 0.2,
+            "fail_count": 0
+        },
+        "status": "matched"
+    },
+    {
+        "seeker_id": "SEEKER_0010",
+        "profile": {
+            "gender": "Male",
+            "age": "32",
+            "industry": "Other",
+            "skills": [
+                "Electrical circuit design",
+                "AutoCAD",
+                "PLC programming",
+                "Troubleshooting",
+                "Project coordination",
+                "MATLAB",
+                "Technical documentation",
+                "Team collaboration"
+            ],
+            "experience_years": "2",
+            "education": [
+                {
+                    "degree": "Bachelor of Engineering",
+                    "field": "Electrical Engineering",
+                    "year": "2019"
+                }
+            ],
+            "current_job_title": "Electrical Engineer",
+            "salary_expectation": "50,000",
+            "location": "West",
+            "work_history": [
+                {
+                    "title": "Electrical Engineer",
+                    "company": "WestTech Solutions",
+                    "duration": "Jul 2021 - Present",
+                    "responsibilities": [
+                        "Designed and implemented electrical systems for commercial projects",
+                        "Collaborated with cross-functional teams to ensure project deadlines were met",
+                        "Prepared technical documentation and reports for ongoing projects",
+                        "Assisted in troubleshooting and resolving on-site electrical issues"
+                    ]
+                },
+                {
+                    "title": "Junior Electrical Engineer",
+                    "company": "BrightVolt Engineering",
+                    "duration": "Aug 2019 - Jun 2021",
+                    "responsibilities": [
+                        "Supported senior engineers in circuit design and layout",
+                        "Conducted routine maintenance and testing of electrical equipment",
+                        "Utilized AutoCAD for drafting electrical schematics",
+                        "Participated in safety audits and compliance checks"
+                    ]
+                }
+            ]
+        },
+        "summary": "Detail-oriented Electrical Engineer with 2 years of experience in designing, implementing, and maintaining electrical systems for commercial and industrial projects. Proficient in AutoCAD, PLC programming, and technical documentation. Adept at collaborating with multidisciplinary teams to deliver projects on time and within budget. Seeking to leverage technical expertise and problem-solving skills in a dynamic engineering environment.",
+        "dynamic_state": {
+            "risk_aversion": 0.2591817793182821,
+            "fail_count": 1
+        },
+        "status": "unmatched"
+    },
+    {
+        "seeker_id": "SEEKER_0011",
+        "profile": {
+            "gender": "Female",
+            "age": "28",
+            "industry": "Healthcare",
+            "skills": [
+                "Medical Equipment Maintenance",
+                "Electrical Circuit Design",
+                "Troubleshooting",
+                "Preventive Maintenance",
+                "Regulatory Compliance (FDA, IEC)",
+                "Technical Documentation",
+                "Project Management",
+                "Team Collaboration",
+                "Root Cause Analysis",
+                "AutoCAD"
+            ],
+            "experience_years": "5",
+            "education": [
+                {
+                    "degree": "Bachelor of Engineering",
+                    "field": "Electrical Engineering",
+                    "year": "2017"
+                },
+                {
+                    "degree": "Certification",
+                    "field": "Biomedical Equipment Technology",
+                    "year": "2018"
+                }
+            ],
+            "current_job_title": "Electrical Engineer",
+            "salary_expectation": "50,000",
+            "location": "East",
+            "work_history": [
+                {
+                    "title": "Electrical Engineer",
+                    "company": "Meditech Solutions Pvt. Ltd.",
+                    "duration": "2021 - Present",
+                    "responsibilities": [
+                        "Lead maintenance and calibration of diagnostic imaging equipment (MRI, CT, X-ray)",
+                        "Coordinate with clinical staff to ensure minimal equipment downtime",
+                        "Implement preventive maintenance schedules for over 100 medical devices",
+                        "Ensure compliance with healthcare safety and regulatory standards"
+                    ]
+                },
+                {
+                    "title": "Junior Electrical Engineer",
+                    "company": "EastCare Hospitals",
+                    "duration": "2018 - 2021",
+                    "responsibilities": [
+                        "Assisted in installation and testing of new medical equipment",
+                        "Supported troubleshooting and repair of electrical systems in critical care units",
+                        "Maintained technical documentation and service records",
+                        "Collaborated with vendors for equipment upgrades and training"
+                    ]
+                }
+            ]
+        },
+        "summary": "Detail-oriented Electrical Engineer with 5 years of experience in the healthcare industry, specializing in the maintenance, calibration, and troubleshooting of medical equipment. Proven track record of ensuring equipment reliability and regulatory compliance in hospital settings. Adept at collaborating with multidisciplinary teams to deliver high-quality technical support and solutions.",
+        "dynamic_state": {
+            "risk_aversion": 0.2,
+            "fail_count": 0
+        },
+        "status": "matched"
+    },
+    {
+        "seeker_id": "SEEKER_0012",
+        "profile": {
+            "gender": "Male",
+            "age": "28",
+            "industry": "Retail",
+            "skills": [
+                "Electrical Systems Design",
+                "Retail Store Maintenance",
+                "Troubleshooting",
+                "Project Coordination",
+                "AutoCAD",
+                "Preventive Maintenance",
+                "Team Collaboration",
+                "Customer Service",
+                "Inventory Management"
+            ],
+            "experience_years": "2",
+            "education": [
+                {
+                    "degree": "Bachelor of Engineering",
+                    "field": "Electrical Engineering",
+                    "year": "2020"
+                }
+            ],
+            "current_job_title": "Electrical Engineer",
+            "salary_expectation": "50,000",
+            "location": "South",
+            "work_history": [
+                {
+                    "title": "Electrical Engineer",
+                    "company": "BrightMart Retail Solutions",
+                    "duration": "Jul 2021 - Present",
+                    "responsibilities": [
+                        "Designed and maintained electrical systems for retail stores across the South region",
+                        "Coordinated with store managers to ensure timely maintenance and minimal downtime",
+                        "Conducted troubleshooting and repairs of lighting, HVAC, and security systems",
+                        "Assisted in the installation of new equipment and store fit-outs"
+                    ]
+                },
+                {
+                    "title": "Junior Electrical Engineer (Intern)",
+                    "company": "RetailTech Services",
+                    "duration": "Jan 2021 - Jun 2021",
+                    "responsibilities": [
+                        "Supported senior engineers in routine inspections and preventive maintenance tasks",
+                        "Helped update technical documentation and inventory records",
+                        "Assisted with customer service requests related to electrical issues in retail outlets"
+                    ]
+                }
+            ]
+        },
+        "summary": "Detail-oriented Electrical Engineer with 2 years of experience specializing in retail environments. Skilled in electrical systems design, troubleshooting, and maintenance for retail stores. Adept at collaborating with cross-functional teams to ensure operational efficiency and customer satisfaction. Seeking to leverage technical expertise and hands-on experience to contribute to a dynamic retail organization in the South region.",
+        "dynamic_state": {
+            "risk_aversion": 0.2591817793182821,
+            "fail_count": 1
+        },
+        "status": "unmatched"
+    },
+    {
+        "seeker_id": "SEEKER_0013",
+        "profile": {
+            "gender": "Female",
+            "age": "24",
+            "industry": "Technology",
+            "skills": [
+                "Customer Relationship Management",
+                "Technical Support",
+                "Troubleshooting",
+                "Zendesk",
+                "Live Chat Support",
+                "Problem Solving",
+                "Communication",
+                "Ticketing Systems",
+                "SaaS Support",
+                "Time Management"
+            ],
+            "experience_years": "4",
+            "education": [
+                {
+                    "degree": "Bachelor of Science",
+                    "field": "Information Technology",
+                    "year": "2020"
+                }
+            ],
+            "current_job_title": "Customer Support Specialist",
+            "salary_expectation": "70,000",
+            "location": "South",
+            "work_history": [
+                {
+                    "title": "Customer Support Specialist",
+                    "company": "TechNova Solutions",
+                    "duration": "2021 - Present",
+                    "responsibilities": [
+                        "Provide technical assistance to customers via email, chat, and phone for SaaS products",
+                        "Troubleshoot and resolve customer issues, escalating complex cases to engineering teams",
+                        "Maintain high customer satisfaction ratings through effective communication and follow-up",
+                        "Document solutions and contribute to the internal knowledge base"
+                    ]
+                },
+                {
+                    "title": "Technical Support Associate",
+                    "company": "BrightWave Technologies",
+                    "duration": "2019 - 2021",
+                    "responsibilities": [
+                        "Responded to customer inquiries and provided step-by-step technical guidance",
+                        "Assisted in onboarding new users and provided product training sessions",
+                        "Monitored support tickets and ensured timely resolution",
+                        "Collaborated with product teams to relay customer feedback"
+                    ]
+                }
+            ]
+        },
+        "summary": "Detail-oriented Customer Support Specialist with 4 years of experience in the technology sector, skilled in troubleshooting, customer relationship management, and SaaS support. Adept at resolving complex technical issues and ensuring high levels of customer satisfaction. Seeking to leverage expertise in a dynamic tech-driven environment.",
+        "dynamic_state": {
+            "risk_aversion": 0.2591817793182821,
+            "fail_count": 1
+        },
+        "status": "unmatched"
+    },
+    {
+        "seeker_id": "SEEKER_0014",
+        "profile": {
+            "gender": "Female",
+            "age": "28",
+            "industry": "Other",
+            "skills": [
+                "Operations Management",
+                "Process Improvement",
+                "Team Leadership",
+                "Project Coordination",
+                "Data Analysis",
+                "Inventory Management",
+                "Vendor Relations",
+                "Budgeting",
+                "Problem Solving",
+                "Microsoft Office Suite"
+            ],
+            "experience_years": "2",
+            "education": [
+                {
+                    "degree": "Bachelor of Science",
+                    "field": "Business Administration",
+                    "year": "2018"
+                }
+            ],
+            "current_job_title": "Operations Manager",
+            "salary_expectation": "120k+",
+            "location": "South",
+            "work_history": [
+                {
+                    "title": "Operations Manager",
+                    "company": "Southern Logistics Solutions",
+                    "duration": "2022 - Present",
+                    "responsibilities": [
+                        "Oversee daily operations to ensure efficiency and productivity across multiple departments",
+                        "Implement process improvements that reduced operational costs by 10%",
+                        "Lead a team of 8 staff members, providing training and performance feedback",
+                        "Coordinate with vendors and suppliers to maintain optimal inventory levels",
+                        "Prepare and manage departmental budgets and financial reports"
+                    ]
+                },
+                {
+                    "title": "Operations Coordinator",
+                    "company": "Delta Services Group",
+                    "duration": "2020 - 2022",
+                    "responsibilities": [
+                        "Supported the Operations Manager in daily workflow management",
+                        "Monitored project timelines and ensured on-time delivery of services",
+                        "Assisted in data analysis and reporting for process optimization",
+                        "Maintained communication between internal teams and external partners"
+                    ]
+                }
+            ]
+        },
+        "summary": "Results-driven Operations Manager with 2 years of progressive experience in streamlining processes, leading teams, and optimizing operational efficiency. Adept at managing cross-functional teams, implementing cost-saving initiatives, and fostering strong vendor relationships. Committed to driving organizational success through effective leadership and continuous improvement.",
+        "dynamic_state": {
+            "risk_aversion": 0.2591817793182821,
+            "fail_count": 1
+        },
+        "status": "unmatched"
+    },
+    {
+        "seeker_id": "SEEKER_0015",
+        "profile": {
+            "gender": "Female",
+            "age": "23",
+            "industry": "Technology",
+            "skills": [
+                "Circuit Design",
+                "PCB Layout",
+                "MATLAB",
+                "AutoCAD Electrical",
+                "Embedded Systems",
+                "C/C++ Programming",
+                "Signal Processing",
+                "Schematic Capture",
+                "Team Collaboration",
+                "Problem Solving"
+            ],
+            "experience_years": "2",
+            "education": [
+                {
+                    "degree": "Bachelor of Science",
+                    "field": "Electrical Engineering",
+                    "year": "2022"
+                }
+            ],
+            "current_job_title": "Electrical Engineer",
+            "salary_expectation": "50,000",
+            "location": "West",
+            "work_history": [
+                {
+                    "title": "Electrical Engineer",
+                    "company": "WestTech Solutions",
+                    "duration": "Aug 2022 - Present",
+                    "responsibilities": [
+                        "Designed and tested analog and digital circuits for consumer electronics projects",
+                        "Collaborated with cross-functional teams to develop embedded system solutions",
+                        "Assisted in PCB layout and schematic capture using Altium Designer and AutoCAD Electrical",
+                        "Participated in troubleshooting and resolving technical issues during product development"
+                    ]
+                },
+                {
+                    "title": "Electrical Engineering Intern",
+                    "company": "Innovatech Labs",
+                    "duration": "Jun 2021 - Aug 2021",
+                    "responsibilities": [
+                        "Supported senior engineers in prototyping and testing electronic components",
+                        "Conducted simulations and data analysis using MATLAB",
+                        "Prepared technical documentation and reports for ongoing projects"
+                    ]
+                }
+            ]
+        },
+        "summary": "Detail-oriented Electrical Engineer with 2 years of experience in circuit design, embedded systems, and PCB layout. Adept at collaborating with multidisciplinary teams to deliver innovative technology solutions. Strong analytical and problem-solving skills, with a solid foundation in electrical engineering principles and hands-on project experience.",
+        "dynamic_state": {
+            "risk_aversion": 0.2,
+            "fail_count": 0
+        },
+        "status": "matched"
+    },
+    {
+        "seeker_id": "SEEKER_0016",
+        "profile": {
+            "gender": "Male",
+            "age": "33",
+            "industry": "Healthcare",
+            "skills": [
+                "Python",
+                "Java",
+                "C#",
+                "SQL",
+                "HL7 Integration",
+                "FHIR",
+                "RESTful API Development",
+                "Electronic Health Records (EHR)",
+                "Agile Methodologies",
+                "Unit Testing",
+                "Cloud Computing (AWS, Azure)",
+                "Medical Data Security",
+                "Continuous Integration/Continuous Deployment (CI/CD)",
+                "Docker",
+                "Team Collaboration"
+            ],
+            "experience_years": "8",
+            "education": [
+                {
+                    "degree": "Bachelor of Science",
+                    "field": "Computer Science",
+                    "year": "2013"
+                },
+                {
+                    "degree": "Master of Science",
+                    "field": "Health Informatics",
+                    "year": "2015"
+                }
+            ],
+            "current_job_title": "Software Engineer",
+            "salary_expectation": "50,000",
+            "location": "South",
+            "work_history": [
+                {
+                    "title": "Software Engineer",
+                    "company": "Meditech Solutions",
+                    "duration": "2019 - Present",
+                    "responsibilities": [
+                        "Developed and maintained healthcare applications for patient data management and EHR systems.",
+                        "Integrated HL7 and FHIR standards for interoperability between hospital systems.",
+                        "Collaborated with cross-functional teams to deliver scalable and secure software solutions.",
+                        "Implemented CI/CD pipelines to streamline deployment processes."
+                    ]
+                },
+                {
+                    "title": "Junior Software Engineer",
+                    "company": "HealthSync Technologies",
+                    "duration": "2016 - 2019",
+                    "responsibilities": [
+                        "Assisted in the development of web-based healthcare platforms using Java and Python.",
+                        "Participated in the migration of legacy systems to cloud-based infrastructure.",
+                        "Conducted unit and integration testing to ensure software reliability.",
+                        "Worked closely with QA and product teams to address software issues."
+                    ]
+                },
+                {
+                    "title": "Software Developer Intern",
+                    "company": "CareIT Solutions",
+                    "duration": "2015 - 2016",
+                    "responsibilities": [
+                        "Supported the development of modules for hospital management systems.",
+                        "Gained experience in medical data security and compliance requirements.",
+                        "Contributed to documentation and user training materials."
+                    ]
+                }
+            ]
+        },
+        "summary": "Results-driven Software Engineer with over 8 years of experience in the healthcare industry, specializing in the development and integration of secure, scalable medical software solutions. Adept at working with EHR systems, HL7/FHIR standards, and cloud technologies. Proven track record of collaborating with multidisciplinary teams to deliver high-quality products that improve patient care and operational efficiency.",
+        "dynamic_state": {
+            "risk_aversion": 0.2591817793182821,
+            "fail_count": 1
+        },
+        "status": "unmatched"
+    },
+    {
+        "seeker_id": "SEEKER_0017",
+        "profile": {
+            "gender": "Female",
+            "age": "42",
+            "industry": "Technology",
+            "skills": [
+                "Customer Relationship Management",
+                "Technical Troubleshooting",
+                "Help Desk Support",
+                "Ticketing Systems (Zendesk, Freshdesk)",
+                "Communication",
+                "Problem Solving",
+                "Time Management",
+                "Basic SQL",
+                "Remote Support",
+                "Product Knowledge"
+            ],
+            "experience_years": "2",
+            "education": [
+                {
+                    "degree": "Bachelor of Arts",
+                    "field": "Communications",
+                    "year": "2004"
+                },
+                {
+                    "degree": "Certificate",
+                    "field": "IT Support Fundamentals",
+                    "year": "2021"
+                }
+            ],
+            "current_job_title": "Customer Support",
+            "salary_expectation": "60k-80k",
+            "location": "East",
+            "work_history": [
+                {
+                    "title": "Customer Support Specialist",
+                    "company": "TechEase Solutions",
+                    "duration": "2022 - Present",
+                    "responsibilities": [
+                        "Respond to customer inquiries via email, chat, and phone, ensuring timely resolution of technical issues",
+                        "Troubleshoot software and hardware problems for end-users",
+                        "Document and escalate complex issues to Tier 2 support",
+                        "Maintain high customer satisfaction ratings through effective communication and follow-up"
+                    ]
+                },
+                {
+                    "title": "Support Associate (Part-Time)",
+                    "company": "Digital Helpdesk Co.",
+                    "duration": "2021 - 2022",
+                    "responsibilities": [
+                        "Assisted customers with account setup and product usage",
+                        "Logged and tracked support tickets using Zendesk",
+                        "Provided feedback to product teams on recurring user issues"
+                    ]
+                }
+            ]
+        },
+        "summary": "Detail-oriented and empathetic Customer Support professional with 2 years of experience in the technology sector. Skilled in troubleshooting, customer relationship management, and technical support across multiple channels. Adept at quickly learning new products and systems, with a strong commitment to delivering excellent customer experiences.",
+        "dynamic_state": {
+            "risk_aversion": 0.2591817793182821,
+            "fail_count": 1
+        },
+        "status": "unmatched"
+    },
+    {
+        "seeker_id": "SEEKER_0018",
+        "profile": {
+            "gender": "Female",
+            "age": "28",
+            "industry": "Technology",
+            "skills": [
+                "B2B Sales",
+                "Account Management",
+                "CRM (Salesforce, HubSpot)",
+                "Lead Generation",
+                "Negotiation",
+                "Technical Product Demonstrations",
+                "Customer Relationship Management",
+                "Market Research",
+                "Presentation Skills",
+                "Pipeline Management"
+            ],
+            "experience_years": "5",
+            "education": [
+                {
+                    "degree": "Bachelor of Science",
+                    "field": "Business Administration",
+                    "year": "2018"
+                }
+            ],
+            "current_job_title": "Sales Representative",
+            "salary_expectation": "50,000",
+            "location": "San Francisco, CA",
+            "work_history": [
+                {
+                    "title": "Sales Representative",
+                    "company": "TechNova Solutions",
+                    "duration": "2021 - Present",
+                    "responsibilities": [
+                        "Managed a portfolio of over 100 SMB and enterprise clients in the SaaS sector.",
+                        "Consistently exceeded quarterly sales targets by 15-20%.",
+                        "Conducted product demos and technical presentations to prospective clients.",
+                        "Collaborated with product and engineering teams to tailor solutions for client needs."
+                    ]
+                },
+                {
+                    "title": "Junior Sales Associate",
+                    "company": "CloudBridge Technologies",
+                    "duration": "2018 - 2021",
+                    "responsibilities": [
+                        "Supported senior sales staff in lead generation and pipeline management.",
+                        "Assisted in preparing proposals and sales presentations for cloud-based products.",
+                        "Maintained CRM records and tracked customer interactions.",
+                        "Coordinated with marketing to execute targeted outreach campaigns."
+                    ]
+                }
+            ]
+        },
+        "summary": "Results-driven technology sales professional with 5 years of experience in B2B software sales, account management, and client relationship building. Proven track record of exceeding sales targets and delivering tailored solutions to clients in fast-paced environments. Adept at technical product demonstrations, negotiation, and leveraging CRM tools to drive business growth.",
+        "dynamic_state": {
+            "risk_aversion": 0.2591817793182821,
+            "fail_count": 1
+        },
+        "status": "unmatched"
+    },
+    {
+        "seeker_id": "SEEKER_0019",
+        "profile": {
+            "gender": "Female",
+            "age": "38",
+            "industry": "Finance",
+            "skills": [
+                "Financial analysis",
+                "Excel modeling",
+                "Budgeting",
+                "Financial reporting",
+                "Data visualization",
+                "Variance analysis",
+                "PowerPoint presentations",
+                "Attention to detail",
+                "Team collaboration",
+                "Problem solving"
+            ],
+            "experience_years": "2",
+            "education": [
+                {
+                    "degree": "Bachelor of Science",
+                    "field": "Finance",
+                    "year": "2018"
+                },
+                {
+                    "degree": "Master of Business Administration",
+                    "field": "Accounting",
+                    "year": "2021"
+                }
+            ],
+            "current_job_title": "Financial Analyst",
+            "salary_expectation": "70,000",
+            "location": "South",
+            "work_history": [
+                {
+                    "title": "Financial Analyst",
+                    "company": "Southern Capital Advisors",
+                    "duration": "2022 - Present",
+                    "responsibilities": [
+                        "Prepare monthly and quarterly financial reports for management review",
+                        "Conduct variance analysis and provide insights on budget deviations",
+                        "Assist in annual budgeting and forecasting processes",
+                        "Develop Excel-based financial models to support business decisions",
+                        "Collaborate with cross-functional teams to gather and analyze financial data"
+                    ]
+                },
+                {
+                    "title": "Finance Intern",
+                    "company": "Delta Financial Group",
+                    "duration": "2021 - 2022",
+                    "responsibilities": [
+                        "Supported senior analysts in preparing financial statements",
+                        "Assisted with data entry and reconciliation tasks",
+                        "Participated in team meetings and contributed to process improvement initiatives"
+                    ]
+                }
+            ]
+        },
+        "summary": "Detail-oriented Financial Analyst with 2 years of experience in financial reporting, budgeting, and data analysis. Holds an MBA in Accounting and a strong foundation in financial modeling and variance analysis. Adept at collaborating with teams to deliver actionable insights and support business growth. Seeking to leverage analytical skills and finance expertise in a dynamic organization.",
+        "dynamic_state": {
+            "risk_aversion": 0.2591817793182821,
+            "fail_count": 1
+        },
+        "status": "unmatched"
+    },
+    {
+        "seeker_id": "SEEKER_0020",
+        "profile": {
+            "gender": "Male",
+            "age": "42",
+            "industry": "Retail",
+            "skills": [
+                "Customer Service",
+                "Point of Sale (POS) Systems",
+                "Product Knowledge",
+                "Inventory Management",
+                "Upselling",
+                "Communication",
+                "Teamwork",
+                "Time Management"
+            ],
+            "experience_years": "2",
+            "education": [
+                {
+                    "degree": "Associate Degree",
+                    "field": "Business Administration",
+                    "year": "2021"
+                }
+            ],
+            "current_job_title": "Sales Representative",
+            "salary_expectation": "80k-100k",
+            "location": "South",
+            "work_history": [
+                {
+                    "title": "Sales Representative",
+                    "company": "Southern Value Retailers",
+                    "duration": "2022 - Present",
+                    "responsibilities": [
+                        "Assisted customers in selecting products and provided detailed product information",
+                        "Operated POS systems and processed transactions efficiently",
+                        "Maintained store displays and ensured shelves were fully stocked",
+                        "Collaborated with team members to achieve monthly sales targets"
+                    ]
+                },
+                {
+                    "title": "Retail Associate",
+                    "company": "QuickMart Express",
+                    "duration": "2021 - 2022",
+                    "responsibilities": [
+                        "Provided excellent customer service and resolved customer inquiries",
+                        "Supported inventory management and restocking activities",
+                        "Helped organize promotional events and in-store marketing",
+                        "Ensured cleanliness and organization of the sales floor"
+                    ]
+                }
+            ]
+        },
+        "summary": "Motivated and customer-focused Sales Representative with 2 years of experience in the retail industry. Skilled in delivering excellent service, managing inventory, and driving sales through effective communication and product knowledge. Eager to contribute to a dynamic retail team in the South region.",
+        "dynamic_state": {
+            "risk_aversion": 0.2,
+            "fail_count": 0
+        },
+        "status": "matched"
+    },
+    {
+        "seeker_id": "SEEKER_0021",
+        "profile": {
+            "gender": "Male",
+            "age": "38",
+            "industry": "Finance",
+            "skills": [
+                "Python",
+                "SQL",
+                "Financial Data Analysis",
+                "Excel",
+                "Java",
+                "Data Visualization",
+                "Problem Solving",
+                "Team Collaboration",
+                "Version Control (Git)",
+                "REST API Development"
+            ],
+            "experience_years": "2",
+            "education": [
+                {
+                    "degree": "Bachelor of Science",
+                    "field": "Computer Science",
+                    "year": "2010"
+                },
+                {
+                    "degree": "Certificate",
+                    "field": "Financial Technology",
+                    "year": "2021"
+                }
+            ],
+            "current_job_title": "Software Engineer",
+            "salary_expectation": "70,000",
+            "location": "North",
+            "work_history": [
+                {
+                    "title": "Software Engineer",
+                    "company": "FinEdge Solutions",
+                    "duration": "2022 - Present",
+                    "responsibilities": [
+                        "Developed and maintained financial data processing applications using Python and SQL.",
+                        "Collaborated with analysts to automate reporting workflows, improving efficiency by 20%.",
+                        "Integrated third-party APIs for real-time market data retrieval.",
+                        "Participated in code reviews and contributed to team knowledge sharing."
+                    ]
+                },
+                {
+                    "title": "Junior Software Developer",
+                    "company": "North Finance Tech",
+                    "duration": "2021 - 2022",
+                    "responsibilities": [
+                        "Assisted in the development of internal tools for risk assessment and portfolio management.",
+                        "Supported the migration of legacy Excel-based models to web-based applications.",
+                        "Worked closely with senior engineers to troubleshoot and resolve software issues."
+                    ]
+                }
+            ]
+        },
+        "summary": "Detail-oriented Software Engineer with 2 years of experience in the finance industry, specializing in developing and optimizing financial data solutions. Strong background in Python, SQL, and financial technology, with a proven ability to collaborate with cross-functional teams to deliver high-quality software. Seeking to leverage technical and analytical skills in a dynamic finance environment.",
+        "dynamic_state": {
+            "risk_aversion": 0.2,
+            "fail_count": 0
+        },
+        "status": "matched"
+    },
+    {
+        "seeker_id": "SEEKER_0022",
+        "profile": {
+            "gender": "Female",
+            "age": "28",
+            "industry": "Finance",
+            "skills": [
+                "Python",
+                "Java",
+                "SQL",
+                "Financial Modeling",
+                "Data Analysis",
+                "Machine Learning",
+                "RESTful API Development",
+                "Cloud Computing (AWS)",
+                "Agile Methodologies",
+                "Git",
+                "Docker",
+                "Risk Assessment",
+                "Business Intelligence",
+                "Excel (Advanced)",
+                "Team Leadership"
+            ],
+            "experience_years": "7",
+            "education": [
+                {
+                    "degree": "Bachelor of Science",
+                    "field": "Computer Science",
+                    "year": "2016"
+                },
+                {
+                    "degree": "Master of Science",
+                    "field": "Financial Engineering",
+                    "year": "2018"
+                }
+            ],
+            "current_job_title": "Software Engineer",
+            "salary_expectation": "120k+",
+            "location": "East",
+            "work_history": [
+                {
+                    "title": "Software Engineer",
+                    "company": "EastBridge Financial Technologies",
+                    "duration": "2020 - Present",
+                    "responsibilities": [
+                        "Developed and maintained scalable financial analytics platforms using Python and Java.",
+                        "Collaborated with quantitative analysts to implement risk assessment models for trading systems.",
+                        "Led a team of 4 engineers in migrating legacy systems to AWS cloud infrastructure.",
+                        "Optimized SQL queries and data pipelines, improving reporting efficiency by 30%."
+                    ]
+                },
+                {
+                    "title": "Junior Software Engineer",
+                    "company": "FinEdge Solutions",
+                    "duration": "2018 - 2020",
+                    "responsibilities": [
+                        "Built RESTful APIs for portfolio management applications.",
+                        "Integrated third-party financial data providers using secure data pipelines.",
+                        "Worked closely with product managers to deliver new features in agile sprints.",
+                        "Automated data validation processes, reducing manual errors by 25%."
+                    ]
+                },
+                {
+                    "title": "Software Engineering Intern",
+                    "company": "Capital Insights Group",
+                    "duration": "2016 - 2018",
+                    "responsibilities": [
+                        "Assisted in developing internal tools for financial data analysis.",
+                        "Supported the migration of on-premise databases to cloud-based solutions.",
+                        "Participated in code reviews and contributed to documentation efforts."
+                    ]
+                }
+            ]
+        },
+        "summary": "Results-driven Software Engineer with 7 years of experience in the finance industry, specializing in building robust financial systems and data-driven solutions. Adept at collaborating with cross-functional teams to deliver high-impact projects, leveraging expertise in Python, Java, and cloud technologies. Proven track record in optimizing processes, implementing risk models, and leading engineering teams to success.",
+        "dynamic_state": {
+            "risk_aversion": 0.2591817793182821,
+            "fail_count": 1
+        },
+        "status": "unmatched"
+    },
+    {
+        "seeker_id": "SEEKER_0023",
+        "profile": {
+            "gender": "Male",
+            "age": "38",
+            "industry": "Finance",
+            "skills": [
+                "Project Management",
+                "Financial Analysis",
+                "Budgeting",
+                "Stakeholder Communication",
+                "Risk Assessment",
+                "MS Excel",
+                "Team Leadership",
+                "Process Improvement"
+            ],
+            "experience_years": "2",
+            "education": [
+                {
+                    "degree": "Bachelor of Science",
+                    "field": "Finance",
+                    "year": "2010"
+                },
+                {
+                    "degree": "Project Management Professional (PMP)",
+                    "field": "Project Management",
+                    "year": "2022"
+                }
+            ],
+            "current_job_title": "Project Manager",
+            "salary_expectation": "50,000",
+            "location": "South",
+            "work_history": [
+                {
+                    "title": "Project Manager",
+                    "company": "Southern Financial Solutions",
+                    "duration": "2022 - Present",
+                    "responsibilities": [
+                        "Led cross-functional teams to deliver finance-related projects on time and within budget",
+                        "Coordinated with stakeholders to define project scope and objectives",
+                        "Monitored project progress and prepared regular status reports",
+                        "Implemented process improvements to enhance project efficiency"
+                    ]
+                },
+                {
+                    "title": "Finance Associate",
+                    "company": "Delta Capital Advisors",
+                    "duration": "2021 - 2022",
+                    "responsibilities": [
+                        "Assisted in financial data analysis and reporting",
+                        "Supported project managers in budgeting and resource allocation",
+                        "Prepared documentation for project meetings and client presentations"
+                    ]
+                }
+            ]
+        },
+        "summary": "Detail-oriented Project Manager with 2 years of experience in the finance industry, skilled in leading teams, managing budgets, and delivering projects efficiently. Holds a strong foundation in financial analysis and project management, with a proven ability to communicate effectively with stakeholders and drive process improvements.",
+        "dynamic_state": {
+            "risk_aversion": 0.2,
+            "fail_count": 0
+        },
+        "status": "matched"
+    },
+    {
+        "seeker_id": "SEEKER_0024",
+        "profile": {
+            "gender": "Male",
+            "age": "24",
+            "industry": "Technology",
+            "skills": [
+                "Financial Modeling",
+                "Data Analysis",
+                "Microsoft Excel",
+                "SQL",
+                "Python",
+                "Power BI",
+                "Budgeting",
+                "Forecasting",
+                "Business Intelligence",
+                "Problem Solving"
+            ],
+            "experience_years": "2",
+            "education": [
+                {
+                    "degree": "Bachelor of Science",
+                    "field": "Finance",
+                    "year": "2021"
+                },
+                {
+                    "degree": "Certification",
+                    "field": "Data Analytics (Coursera)",
+                    "year": "2022"
+                }
+            ],
+            "current_job_title": "Financial Analyst",
+            "salary_expectation": "80k-100k",
+            "location": "East",
+            "work_history": [
+                {
+                    "title": "Financial Analyst",
+                    "company": "TechNova Solutions",
+                    "duration": "Jul 2021 - Present",
+                    "responsibilities": [
+                        "Developed and maintained financial models to support business decision-making.",
+                        "Analyzed large datasets to identify trends and provide actionable insights to management.",
+                        "Collaborated with cross-functional teams to prepare annual budgets and quarterly forecasts.",
+                        "Automated reporting processes using Python and SQL, reducing manual effort by 30%."
+                    ]
+                },
+                {
+                    "title": "Finance Intern",
+                    "company": "Innovatech Group",
+                    "duration": "Jan 2021 - Jun 2021",
+                    "responsibilities": [
+                        "Assisted in preparing monthly financial reports and variance analysis.",
+                        "Supported the finance team in data collection and cleansing for business intelligence projects.",
+                        "Conducted market research to benchmark company performance against industry standards."
+                    ]
+                }
+            ]
+        },
+        "summary": "Detail-oriented Financial Analyst with 2 years of experience in the technology sector, skilled in financial modeling, data analysis, and business intelligence. Adept at leveraging analytical tools and programming languages to drive process improvements and deliver actionable insights. Eager to contribute strong quantitative and problem-solving skills to a dynamic team.",
+        "dynamic_state": {
+            "risk_aversion": 0.2591817793182821,
+            "fail_count": 1
+        },
+        "status": "unmatched"
+    },
+    {
+        "seeker_id": "SEEKER_0025",
+        "profile": {
+            "gender": "Female",
+            "age": "42",
+            "industry": "Technology",
+            "skills": [
+                "Circuit Design",
+                "PCB Layout",
+                "AutoCAD Electrical",
+                "MATLAB",
+                "Schematic Capture",
+                "Microcontroller Programming",
+                "Testing and Troubleshooting",
+                "Technical Documentation",
+                "Team Collaboration"
+            ],
+            "experience_years": "2",
+            "education": [
+                {
+                    "degree": "Bachelor of Science",
+                    "field": "Electrical Engineering",
+                    "year": "2021"
+                }
+            ],
+            "current_job_title": "Electrical Engineer",
+            "salary_expectation": "40k-60k",
+            "location": "East",
+            "work_history": [
+                {
+                    "title": "Electrical Engineer",
+                    "company": "EastTech Solutions",
+                    "duration": "2022 - Present",
+                    "responsibilities": [
+                        "Designed and tested printed circuit boards (PCBs) for consumer electronics projects.",
+                        "Collaborated with cross-functional teams to develop and implement electrical systems.",
+                        "Prepared technical documentation and reports for ongoing projects.",
+                        "Assisted in troubleshooting and resolving hardware issues during product development."
+                    ]
+                },
+                {
+                    "title": "Junior Electrical Engineer (Intern)",
+                    "company": "Innovatech Labs",
+                    "duration": "2021 - 2022",
+                    "responsibilities": [
+                        "Supported senior engineers in schematic design and simulation tasks.",
+                        "Conducted component selection and assisted in prototype assembly.",
+                        "Participated in product testing and quality assurance processes."
+                    ]
+                }
+            ]
+        },
+        "summary": "Detail-oriented Electrical Engineer with 2 years of experience in circuit design, PCB layout, and hardware troubleshooting. Adept at collaborating with multidisciplinary teams to deliver innovative solutions in the technology sector. Strong technical documentation and problem-solving skills, with a commitment to continuous learning and professional growth.",
+        "dynamic_state": {
+            "risk_aversion": 0.2591817793182821,
+            "fail_count": 1
+        },
+        "status": "unmatched"
+    },
+    {
+        "seeker_id": "SEEKER_0026",
+        "profile": {
+            "gender": "Female",
+            "age": "33",
+            "industry": "Education",
+            "skills": [
+                "Python",
+                "Java",
+                "Django",
+                "RESTful APIs",
+                "SQL",
+                "JavaScript",
+                "HTML5",
+                "CSS3",
+                "Git",
+                "Agile Methodologies",
+                "EdTech Platforms",
+                "Learning Management Systems (LMS)",
+                "Problem Solving",
+                "Team Collaboration",
+                "Technical Documentation"
+            ],
+            "experience_years": "8",
+            "education": [
+                {
+                    "degree": "Bachelor of Science",
+                    "field": "Computer Science",
+                    "year": "2012"
+                },
+                {
+                    "degree": "Master of Education",
+                    "field": "Educational Technology",
+                    "year": "2014"
+                }
+            ],
+            "current_job_title": "Software Engineer",
+            "salary_expectation": "50,000",
+            "location": "South",
+            "work_history": [
+                {
+                    "title": "Software Engineer",
+                    "company": "BrightLearn Solutions",
+                    "duration": "2019 - Present",
+                    "responsibilities": [
+                        "Developed and maintained scalable web applications for online learning platforms.",
+                        "Collaborated with instructional designers to implement interactive educational tools.",
+                        "Integrated third-party APIs to enhance platform functionality.",
+                        "Led code reviews and mentored junior developers."
+                    ]
+                },
+                {
+                    "title": "Junior Software Engineer",
+                    "company": "EduTech Innovations",
+                    "duration": "2016 - 2019",
+                    "responsibilities": [
+                        "Assisted in the development of custom modules for learning management systems.",
+                        "Participated in Agile sprints and contributed to project planning.",
+                        "Wrote unit and integration tests to ensure code quality.",
+                        "Provided technical support to educators and administrative staff."
+                    ]
+                },
+                {
+                    "title": "IT Support Specialist",
+                    "company": "South Regional University",
+                    "duration": "2014 - 2016",
+                    "responsibilities": [
+                        "Supported the deployment and maintenance of educational software.",
+                        "Trained faculty and students on the use of digital learning tools.",
+                        "Troubleshot technical issues related to classroom technology."
+                    ]
+                }
+            ]
+        },
+        "summary": "Experienced Software Engineer with over 8 years in the education sector, specializing in the development of robust EdTech solutions and learning management systems. Holds a strong background in both computer science and educational technology, with a proven track record of delivering user-centric applications that enhance digital learning experiences. Adept at collaborating with cross-functional teams and mentoring junior staff.",
+        "dynamic_state": {
+            "risk_aversion": 0.2591817793182821,
+            "fail_count": 1
+        },
+        "status": "unmatched"
+    },
+    {
+        "seeker_id": "SEEKER_0027",
+        "profile": {
+            "gender": "Male",
+            "age": "24",
+            "industry": "Healthcare",
+            "skills": [
+                "Financial Analysis",
+                "Budgeting",
+                "Healthcare Finance",
+                "Data Analysis",
+                "Financial Reporting",
+                "Microsoft Excel",
+                "Cost Analysis",
+                "Forecasting",
+                "ERP Systems",
+                "Communication"
+            ],
+            "experience_years": "4",
+            "education": [
+                {
+                    "degree": "Bachelor of Science",
+                    "field": "Finance",
+                    "year": "2020"
+                }
+            ],
+            "current_job_title": "Financial Analyst",
+            "salary_expectation": "90,000",
+            "location": "East",
+            "work_history": [
+                {
+                    "title": "Financial Analyst",
+                    "company": "Eastwell Medical Center",
+                    "duration": "2021 - Present",
+                    "responsibilities": [
+                        "Prepare monthly, quarterly, and annual financial reports for hospital management",
+                        "Analyze departmental budgets and recommend cost-saving strategies",
+                        "Collaborate with clinical teams to assess financial impact of new healthcare initiatives",
+                        "Support annual audit processes and ensure compliance with healthcare regulations"
+                    ]
+                },
+                {
+                    "title": "Junior Financial Analyst",
+                    "company": "HealthFirst Group",
+                    "duration": "2019 - 2021",
+                    "responsibilities": [
+                        "Assisted in preparing financial statements and variance analysis",
+                        "Monitored daily transactions and reconciled accounts",
+                        "Supported senior analysts in developing financial models for new service lines",
+                        "Maintained accurate records in ERP and financial management systems"
+                    ]
+                }
+            ]
+        },
+        "summary": "Detail-oriented Financial Analyst with 4 years of experience in the healthcare industry. Skilled in budgeting, financial reporting, and cost analysis, with a strong ability to interpret complex data and provide actionable insights. Adept at collaborating with cross-functional teams to drive financial efficiency and support organizational growth. Seeking to leverage expertise in healthcare finance to contribute to a dynamic healthcare organization.",
+        "dynamic_state": {
+            "risk_aversion": 0.2591817793182821,
+            "fail_count": 1
+        },
+        "status": "unmatched"
+    },
+    {
+        "seeker_id": "SEEKER_0028",
+        "profile": {
+            "gender": "Male",
+            "age": "28",
+            "industry": "Retail",
+            "skills": [
+                "Electrical systems maintenance",
+                "Retail equipment troubleshooting",
+                "Project coordination",
+                "AutoCAD",
+                "Team collaboration",
+                "Preventive maintenance",
+                "Customer service",
+                "Inventory management",
+                "Health and safety compliance"
+            ],
+            "experience_years": "2",
+            "education": [
+                {
+                    "degree": "Bachelor of Engineering",
+                    "field": "Electrical Engineering",
+                    "year": "2020"
+                }
+            ],
+            "current_job_title": "Electrical Engineer",
+            "salary_expectation": "30,000",
+            "location": "East",
+            "work_history": [
+                {
+                    "title": "Electrical Engineer",
+                    "company": "BrightMart Retail Solutions",
+                    "duration": "Jul 2021 - Present",
+                    "responsibilities": [
+                        "Maintained and repaired electrical systems for retail stores across the East region",
+                        "Coordinated with store managers to schedule preventive maintenance and minimize downtime",
+                        "Assisted in the installation of new POS and lighting systems during store renovations",
+                        "Ensured compliance with safety standards and company policies"
+                    ]
+                },
+                {
+                    "title": "Junior Electrical Technician (Intern)",
+                    "company": "ShopEase Supermarkets",
+                    "duration": "Jan 2021 - Jun 2021",
+                    "responsibilities": [
+                        "Supported senior engineers in troubleshooting electrical faults in retail equipment",
+                        "Monitored inventory of electrical supplies and assisted in procurement",
+                        "Documented maintenance activities and reported issues to management"
+                    ]
+                }
+            ]
+        },
+        "summary": "A detail-oriented Electrical Engineer with 2 years of experience in the retail industry, specializing in the maintenance and installation of electrical systems for retail environments. Adept at troubleshooting, project coordination, and ensuring safety compliance. Committed to delivering reliable solutions that support seamless retail operations.",
+        "dynamic_state": {
+            "risk_aversion": 0.2,
+            "fail_count": 0
+        },
+        "status": "matched"
+    },
+    {
+        "seeker_id": "SEEKER_0029",
+        "profile": {
+            "gender": "Female",
+            "age": "24",
+            "industry": "Technology",
+            "skills": [
+                "Customer Relationship Management",
+                "Technical Support",
+                "Troubleshooting",
+                "SaaS Platforms",
+                "Zendesk",
+                "Live Chat Support",
+                "Ticketing Systems",
+                "Communication",
+                "Problem Solving",
+                "Team Collaboration",
+                "Knowledge Base Management",
+                "Data Analysis"
+            ],
+            "experience_years": "7",
+            "education": [
+                {
+                    "degree": "Bachelor of Science",
+                    "field": "Information Technology",
+                    "year": "2021"
+                },
+                {
+                    "degree": "High School Diploma",
+                    "field": "Science",
+                    "year": "2017"
+                }
+            ],
+            "current_job_title": "Customer Support",
+            "salary_expectation": "120k+",
+            "location": "North",
+            "work_history": [
+                {
+                    "title": "Customer Support Specialist",
+                    "company": "TechNova Solutions",
+                    "duration": "2021 - Present",
+                    "responsibilities": [
+                        "Provide technical support for SaaS products to enterprise clients",
+                        "Resolve customer issues via email, chat, and phone within SLA",
+                        "Collaborate with engineering teams to escalate and resolve complex cases",
+                        "Maintain and update internal knowledge base articles"
+                    ]
+                },
+                {
+                    "title": "Technical Support Associate",
+                    "company": "CloudBridge Technologies",
+                    "duration": "2018 - 2021",
+                    "responsibilities": [
+                        "Assisted users with troubleshooting software and hardware issues",
+                        "Managed support tickets using Zendesk and Salesforce",
+                        "Conducted onboarding sessions for new clients",
+                        "Documented recurring issues and suggested process improvements"
+                    ]
+                },
+                {
+                    "title": "Customer Service Representative",
+                    "company": "ByteConnect Inc.",
+                    "duration": "2016 - 2018",
+                    "responsibilities": [
+                        "Handled customer inquiries and provided product information",
+                        "Escalated technical issues to appropriate teams",
+                        "Monitored customer satisfaction and followed up on feedback",
+                        "Supported team in achieving monthly KPIs"
+                    ]
+                }
+            ]
+        },
+        "summary": "Resourceful and tech-savvy Customer Support professional with 7+ years of experience in the technology sector. Adept at resolving complex technical issues, delivering exceptional customer service, and collaborating with cross-functional teams. Proven ability to manage high-volume support environments and drive customer satisfaction for SaaS and technology products.",
+        "dynamic_state": {
+            "risk_aversion": 0.2,
+            "fail_count": 0
+        },
+        "status": "matched"
+    },
+    {
+        "seeker_id": "SEEKER_0030",
+        "profile": {
+            "gender": "Female",
+            "age": "42",
+            "industry": "Technology",
+            "skills": [
+                "Project Coordination",
+                "Agile Methodologies",
+                "Stakeholder Management",
+                "JIRA",
+                "Team Leadership",
+                "Risk Management",
+                "Communication",
+                "Time Management",
+                "Microsoft Project",
+                "Problem Solving"
+            ],
+            "experience_years": "2",
+            "education": [
+                {
+                    "degree": "Bachelor of Science",
+                    "field": "Information Technology",
+                    "year": "2004"
+                },
+                {
+                    "degree": "Professional Certificate",
+                    "field": "Project Management",
+                    "year": "2021"
+                }
+            ],
+            "current_job_title": "Project Manager",
+            "salary_expectation": "40k-60k",
+            "location": "East",
+            "work_history": [
+                {
+                    "title": "Project Manager",
+                    "company": "TechNova Solutions",
+                    "duration": "2022 - Present",
+                    "responsibilities": [
+                        "Coordinated cross-functional teams to deliver software projects on time and within budget",
+                        "Managed project schedules, resources, and stakeholder communications",
+                        "Implemented Agile practices to improve team productivity and project transparency",
+                        "Identified and mitigated project risks to ensure successful delivery"
+                    ]
+                },
+                {
+                    "title": "Project Coordinator",
+                    "company": "Digital Edge Systems",
+                    "duration": "2021 - 2022",
+                    "responsibilities": [
+                        "Assisted project managers in planning and executing technology projects",
+                        "Tracked project progress and prepared status reports for stakeholders",
+                        "Facilitated team meetings and maintained project documentation"
+                    ]
+                }
+            ]
+        },
+        "summary": "Detail-oriented and proactive Project Manager with 2 years of experience in the technology sector. Skilled in coordinating teams, managing project timelines, and ensuring effective communication among stakeholders. Holds a strong foundation in IT and certified in project management. Adept at applying Agile methodologies to deliver successful outcomes in fast-paced environments.",
+        "dynamic_state": {
+            "risk_aversion": 0.2591817793182821,
+            "fail_count": 1
+        },
+        "status": "unmatched"
+    },
+    {
+        "seeker_id": "SEEKER_0031",
+        "profile": {
+            "gender": "Male",
+            "age": "28",
+            "industry": "Technology",
+            "skills": [
+                "Product Management",
+                "Agile Methodologies",
+                "User Research",
+                "Market Analysis",
+                "Wireframing",
+                "Stakeholder Management",
+                "Data Analysis",
+                "JIRA",
+                "Roadmap Planning",
+                "Cross-functional Team Leadership"
+            ],
+            "experience_years": "2",
+            "education": [
+                {
+                    "degree": "Bachelor of Technology",
+                    "field": "Computer Science",
+                    "year": "2018"
+                }
+            ],
+            "current_job_title": "Product Manager",
+            "salary_expectation": "50,000",
+            "location": "South",
+            "work_history": [
+                {
+                    "title": "Product Manager",
+                    "company": "TechNova Solutions",
+                    "duration": "Jul 2022 - Present",
+                    "responsibilities": [
+                        "Led the development and launch of a SaaS platform, increasing user engagement by 20%",
+                        "Collaborated with engineering, design, and marketing teams to define product requirements and roadmap",
+                        "Conducted market research and user interviews to identify customer needs and prioritize features",
+                        "Monitored product performance metrics and implemented data-driven improvements"
+                    ]
+                },
+                {
+                    "title": "Associate Product Manager",
+                    "company": "InnoSoft Technologies",
+                    "duration": "Aug 2020 - Jun 2022",
+                    "responsibilities": [
+                        "Assisted in managing the product lifecycle for a mobile application used by over 50,000 users",
+                        "Coordinated sprint planning and backlog grooming with cross-functional teams",
+                        "Prepared product documentation and presented feature updates to stakeholders",
+                        "Analyzed user feedback and usage data to inform product enhancements"
+                    ]
+                }
+            ]
+        },
+        "summary": "Results-driven Product Manager with 2 years of experience in the technology sector, specializing in SaaS and mobile applications. Skilled in agile product development, market analysis, and cross-functional team leadership. Adept at translating user needs into actionable product features and driving successful product launches.",
+        "dynamic_state": {
+            "risk_aversion": 0.2591817793182821,
+            "fail_count": 1
+        },
+        "status": "unmatched"
+    },
+    {
+        "seeker_id": "SEEKER_0032",
+        "profile": {
+            "gender": "Male",
+            "age": "24",
+            "industry": "Manufacturing",
+            "skills": [
+                "Financial Analysis",
+                "Cost Accounting",
+                "Budgeting",
+                "Microsoft Excel",
+                "SAP ERP",
+                "Data Visualization",
+                "Variance Analysis",
+                "Financial Reporting",
+                "Attention to Detail",
+                "Team Collaboration"
+            ],
+            "experience_years": "2",
+            "education": [
+                {
+                    "degree": "Bachelor of Science",
+                    "field": "Finance",
+                    "year": "2021"
+                }
+            ],
+            "current_job_title": "Financial Analyst",
+            "salary_expectation": "90,000",
+            "location": "West",
+            "work_history": [
+                {
+                    "title": "Financial Analyst",
+                    "company": "WestTech Manufacturing Inc.",
+                    "duration": "Jul 2021 - Present",
+                    "responsibilities": [
+                        "Analyzed production costs and prepared monthly financial reports for management.",
+                        "Assisted in annual budgeting and quarterly forecasting processes.",
+                        "Collaborated with operations teams to identify cost-saving opportunities.",
+                        "Utilized SAP ERP and Excel to track and report on key financial metrics.",
+                        "Supported internal audits and ensured compliance with company policies."
+                    ]
+                },
+                {
+                    "title": "Finance Intern",
+                    "company": "Pacific Components Ltd.",
+                    "duration": "Jan 2021 - Jun 2021",
+                    "responsibilities": [
+                        "Supported the finance team in data entry and reconciliation tasks.",
+                        "Assisted in preparing variance analysis reports for manufacturing projects.",
+                        "Helped maintain accurate records of inventory and production expenses."
+                    ]
+                }
+            ]
+        },
+        "summary": "Detail-oriented Financial Analyst with 2 years of experience in the manufacturing industry. Skilled in cost accounting, budgeting, and financial reporting, with a strong command of SAP ERP and Excel. Adept at collaborating with cross-functional teams to drive process improvements and support business objectives. Seeking to leverage analytical skills and industry knowledge to contribute to a dynamic manufacturing organization.",
+        "dynamic_state": {
+            "risk_aversion": 0.2591817793182821,
+            "fail_count": 1
+        },
+        "status": "unmatched"
+    },
+    {
+        "seeker_id": "SEEKER_0033",
+        "profile": {
+            "gender": "Male",
+            "age": "24",
+            "industry": "Finance",
+            "skills": [
+                "Financial Reporting",
+                "Account Reconciliation",
+                "General Ledger Management",
+                "Budgeting & Forecasting",
+                "Accounts Payable/Receivable",
+                "Tax Preparation",
+                "MS Excel",
+                "QuickBooks",
+                "Attention to Detail",
+                "Analytical Thinking"
+            ],
+            "experience_years": "4",
+            "education": [
+                {
+                    "degree": "Bachelor of Commerce",
+                    "field": "Accounting",
+                    "year": "2020"
+                }
+            ],
+            "current_job_title": "Accountant",
+            "salary_expectation": "70,000",
+            "location": "South",
+            "work_history": [
+                {
+                    "title": "Accountant",
+                    "company": "Southern Financial Services Ltd.",
+                    "duration": "2021 - Present",
+                    "responsibilities": [
+                        "Prepared monthly, quarterly, and annual financial statements in compliance with regulatory standards.",
+                        "Managed account reconciliations and ensured accuracy of general ledger entries.",
+                        "Assisted in annual budgeting and forecasting processes.",
+                        "Coordinated with auditors during internal and external audits."
+                    ]
+                },
+                {
+                    "title": "Junior Accountant",
+                    "company": "Delta Accounting Solutions",
+                    "duration": "2019 - 2021",
+                    "responsibilities": [
+                        "Processed accounts payable and receivable transactions.",
+                        "Supported tax preparation and filing for clients.",
+                        "Maintained accurate financial records and documentation.",
+                        "Assisted senior accountants with month-end closing activities."
+                    ]
+                }
+            ]
+        },
+        "summary": "Detail-oriented and analytical Accountant with 4 years of experience in financial reporting, account reconciliation, and budgeting within the finance industry. Adept at managing multiple priorities, ensuring compliance, and delivering accurate financial information. Seeking to leverage expertise and contribute to a dynamic finance team.",
+        "dynamic_state": {
+            "risk_aversion": 0.2,
+            "fail_count": 0
+        },
+        "status": "matched"
+    },
+    {
+        "seeker_id": "SEEKER_0034",
+        "profile": {
+            "gender": "Female",
+            "age": "24",
+            "industry": "Finance",
+            "skills": [
+                "Talent Acquisition",
+                "Employee Relations",
+                "Payroll Administration",
+                "Onboarding",
+                "HR Policies",
+                "Performance Management",
+                "MS Excel",
+                "Communication",
+                "Conflict Resolution",
+                "Organizational Skills"
+            ],
+            "experience_years": "2",
+            "education": [
+                {
+                    "degree": "Bachelor of Business Administration",
+                    "field": "Human Resource Management",
+                    "year": "2021"
+                }
+            ],
+            "current_job_title": "HR Manager",
+            "salary_expectation": "30,000",
+            "location": "Chennai, South India",
+            "work_history": [
+                {
+                    "title": "HR Manager",
+                    "company": "FinEdge Solutions Pvt. Ltd.",
+                    "duration": "Jul 2022 - Present",
+                    "responsibilities": [
+                        "Managed end-to-end recruitment for finance and accounting roles",
+                        "Implemented onboarding programs for new hires",
+                        "Coordinated payroll and benefits administration",
+                        "Developed and updated HR policies in compliance with labor laws",
+                        "Handled employee grievances and facilitated conflict resolution"
+                    ]
+                },
+                {
+                    "title": "HR Executive",
+                    "company": "BrightFunds Financial Services",
+                    "duration": "Aug 2021 - Jun 2022",
+                    "responsibilities": [
+                        "Assisted in recruitment and selection processes",
+                        "Maintained employee records and HR databases",
+                        "Supported performance appraisal cycles",
+                        "Organized employee engagement activities"
+                    ]
+                }
+            ]
+        },
+        "summary": "Dynamic and detail-oriented HR Manager with 2 years of experience in the finance sector. Skilled in talent acquisition, employee relations, and HR operations. Adept at implementing HR policies and fostering a positive workplace culture. Seeking to leverage expertise in human resources to contribute to organizational growth.",
+        "dynamic_state": {
+            "risk_aversion": 0.2,
+            "fail_count": 0
+        },
+        "status": "matched"
+    },
+    {
+        "seeker_id": "SEEKER_0035",
+        "profile": {
+            "gender": "Male",
+            "age": "24",
+            "industry": "Education",
+            "skills": [
+                "Python",
+                "Java",
+                "Django",
+                "RESTful APIs",
+                "SQL",
+                "JavaScript",
+                "React",
+                "Git",
+                "Unit Testing",
+                "Agile Methodologies",
+                "EdTech Platforms",
+                "Problem Solving"
+            ],
+            "experience_years": "4",
+            "education": [
+                {
+                    "degree": "Bachelor of Technology",
+                    "field": "Computer Science",
+                    "year": "2021"
+                }
+            ],
+            "current_job_title": "Software Engineer",
+            "salary_expectation": "50,000",
+            "location": "East",
+            "work_history": [
+                {
+                    "title": "Software Engineer",
+                    "company": "EduTech Solutions Pvt. Ltd.",
+                    "duration": "Jul 2021 - Present",
+                    "responsibilities": [
+                        "Developed and maintained web-based learning management systems using Django and React.",
+                        "Collaborated with cross-functional teams to design and implement new features for online education platforms.",
+                        "Optimized backend services for scalability and performance, supporting over 10,000 concurrent users.",
+                        "Wrote unit and integration tests to ensure code quality and reliability."
+                    ]
+                },
+                {
+                    "title": "Software Developer Intern",
+                    "company": "Learnify Technologies",
+                    "duration": "Jan 2020 - Jun 2021",
+                    "responsibilities": [
+                        "Assisted in building RESTful APIs for educational content delivery.",
+                        "Contributed to front-end development using JavaScript and React.",
+                        "Participated in code reviews and agile sprints."
+                    ]
+                }
+            ]
+        },
+        "summary": "Detail-oriented Software Engineer with 4 years of experience in the education technology sector. Skilled in full-stack development, with a strong background in Python, Django, and React. Proven ability to deliver scalable and user-friendly solutions for online learning platforms. Passionate about leveraging technology to enhance educational experiences.",
+        "dynamic_state": {
+            "risk_aversion": 0.2591817793182821,
+            "fail_count": 1
+        },
+        "status": "unmatched"
+    },
+    {
+        "seeker_id": "SEEKER_0036",
+        "profile": {
+            "gender": "Male",
+            "age": "43",
+            "industry": "Manufacturing",
+            "skills": [
+                "Financial Analysis",
+                "Cost Accounting",
+                "Budgeting & Forecasting",
+                "Variance Analysis",
+                "SAP ERP",
+                "Excel (Advanced)",
+                "Financial Reporting",
+                "Data Visualization",
+                "Process Improvement",
+                "Inventory Management"
+            ],
+            "experience_years": "6",
+            "education": [
+                {
+                    "degree": "Bachelor of Science",
+                    "field": "Accounting",
+                    "year": "2004"
+                },
+                {
+                    "degree": "Master of Business Administration",
+                    "field": "Finance",
+                    "year": "2010"
+                }
+            ],
+            "current_job_title": "Financial Analyst",
+            "salary_expectation": "50,000",
+            "location": "North",
+            "work_history": [
+                {
+                    "title": "Financial Analyst",
+                    "company": "NorthTech Manufacturing Ltd.",
+                    "duration": "2020 - Present",
+                    "responsibilities": [
+                        "Conduct monthly financial analysis and reporting for manufacturing operations",
+                        "Prepare and monitor annual budgets and forecasts",
+                        "Analyze production costs and recommend cost-saving initiatives",
+                        "Collaborate with operations and supply chain teams to optimize inventory levels",
+                        "Support internal and external audits"
+                    ]
+                },
+                {
+                    "title": "Cost Accountant",
+                    "company": "Polar Components Inc.",
+                    "duration": "2017 - 2020",
+                    "responsibilities": [
+                        "Managed cost accounting processes for multiple product lines",
+                        "Performed variance analysis and reported findings to management",
+                        "Assisted in the implementation of SAP ERP for finance functions",
+                        "Prepared monthly and quarterly financial statements"
+                    ]
+                }
+            ]
+        },
+        "summary": "Results-driven Financial Analyst with 6 years of experience in the manufacturing sector. Skilled in financial analysis, cost accounting, and budgeting, with a proven track record of supporting operational efficiency and profitability. Adept at leveraging ERP systems and advanced Excel skills to deliver actionable insights and drive process improvements.",
+        "dynamic_state": {
+            "risk_aversion": 0.2,
+            "fail_count": 0
+        },
+        "status": "matched"
+    },
+    {
+        "seeker_id": "SEEKER_0037",
+        "profile": {
+            "gender": "Male",
+            "age": "23",
+            "industry": "Technology",
+            "skills": [
+                "Financial Analysis",
+                "Excel",
+                "Accounting Software (QuickBooks, Tally)",
+                "Data Entry",
+                "Attention to Detail",
+                "Problem Solving",
+                "Basic SQL",
+                "Budgeting",
+                "Team Collaboration"
+            ],
+            "experience_years": "2",
+            "education": [
+                {
+                    "degree": "Bachelor of Commerce",
+                    "field": "Accounting and Finance",
+                    "year": "2021"
+                }
+            ],
+            "current_job_title": "Accountant",
+            "salary_expectation": "INR 30,000",
+            "location": "Chennai, South India",
+            "work_history": [
+                {
+                    "title": "Accountant",
+                    "company": "TechNova Solutions Pvt. Ltd.",
+                    "duration": "Jul 2021 - Present",
+                    "responsibilities": [
+                        "Managed daily accounting operations and maintained accurate financial records",
+                        "Prepared monthly financial statements and assisted with budgeting processes",
+                        "Processed invoices, payments, and reconciled bank statements",
+                        "Collaborated with the IT team to automate expense tracking using Excel macros"
+                    ]
+                },
+                {
+                    "title": "Finance Intern",
+                    "company": "Infotech Systems",
+                    "duration": "Jan 2021 - Jun 2021",
+                    "responsibilities": [
+                        "Assisted in data entry and verification of financial transactions",
+                        "Supported the senior accountant in preparing tax documents",
+                        "Helped with the implementation of new accounting software"
+                    ]
+                }
+            ]
+        },
+        "summary": "Detail-oriented and analytical Accountant with 2 years of experience in the technology sector. Skilled in financial analysis, accounting software, and process automation. Adept at maintaining accurate records, preparing financial reports, and collaborating with cross-functional teams. Seeking to leverage expertise in a dynamic technology-driven environment.",
+        "dynamic_state": {
+            "risk_aversion": 0.2,
+            "fail_count": 0
+        },
+        "status": "matched"
+    },
+    {
+        "seeker_id": "SEEKER_0038",
+        "profile": {
+            "gender": "Female",
+            "age": "33",
+            "industry": "Technology",
+            "skills": [
+                "Digital Marketing",
+                "Content Strategy",
+                "SEO/SEM",
+                "Social Media Management",
+                "Email Marketing",
+                "Google Analytics",
+                "Marketing Automation",
+                "Copywriting",
+                "Campaign Management",
+                "Data Analysis"
+            ],
+            "experience_years": "8",
+            "education": [
+                {
+                    "degree": "Bachelor of Science",
+                    "field": "Marketing",
+                    "year": "2013"
+                },
+                {
+                    "degree": "Certification",
+                    "field": "Digital Marketing",
+                    "year": "2015"
+                }
+            ],
+            "current_job_title": "Marketing Specialist",
+            "salary_expectation": "40k-60k",
+            "location": "South",
+            "work_history": [
+                {
+                    "title": "Marketing Specialist",
+                    "company": "TechNova Solutions",
+                    "duration": "2020 - Present",
+                    "responsibilities": [
+                        "Develop and execute digital marketing campaigns to drive lead generation and brand awareness.",
+                        "Manage social media channels and create engaging content tailored to target audiences.",
+                        "Analyze campaign performance using Google Analytics and optimize strategies for better ROI.",
+                        "Collaborate with product and sales teams to align marketing initiatives with business goals."
+                    ]
+                },
+                {
+                    "title": "Digital Marketing Coordinator",
+                    "company": "InnoTech Group",
+                    "duration": "2017 - 2020",
+                    "responsibilities": [
+                        "Coordinated multi-channel marketing campaigns including email, social media, and paid advertising.",
+                        "Monitored SEO/SEM performance and implemented improvements to increase website traffic.",
+                        "Assisted in the creation of marketing collateral and managed content calendars.",
+                        "Tracked KPIs and prepared monthly performance reports for management."
+                    ]
+                },
+                {
+                    "title": "Marketing Associate",
+                    "company": "BrightEdge Technologies",
+                    "duration": "2015 - 2017",
+                    "responsibilities": [
+                        "Supported the marketing team in executing promotional activities and events.",
+                        "Maintained company website content and assisted with blog writing.",
+                        "Conducted market research to identify new opportunities and trends.",
+                        "Helped manage email marketing campaigns and subscriber lists."
+                    ]
+                }
+            ]
+        },
+        "summary": "Results-driven Marketing Specialist with over 8 years of experience in the technology sector. Skilled in digital marketing, content strategy, and campaign management, with a proven track record of driving brand growth and lead generation. Adept at leveraging analytics to optimize marketing performance and collaborating across teams to achieve business objectives.",
+        "dynamic_state": {
+            "risk_aversion": 0.2591817793182821,
+            "fail_count": 1
+        },
+        "status": "unmatched"
+    },
+    {
+        "seeker_id": "SEEKER_0039",
+        "profile": {
+            "gender": "Male",
+            "age": "28",
+            "industry": "Finance",
+            "skills": [
+                "Customer Relationship Management",
+                "Financial Products Knowledge",
+                "Problem Solving",
+                "Communication",
+                "MS Excel",
+                "Data Entry",
+                "Conflict Resolution",
+                "Attention to Detail"
+            ],
+            "experience_years": "2",
+            "education": [
+                {
+                    "degree": "Bachelor of Commerce",
+                    "field": "Finance",
+                    "year": "2018"
+                }
+            ],
+            "current_job_title": "Customer Support",
+            "salary_expectation": "INR 25,000 - 35,000 per month",
+            "location": "Chennai, Tamil Nadu",
+            "work_history": [
+                {
+                    "title": "Customer Support Executive",
+                    "company": "FinEdge Solutions Pvt. Ltd.",
+                    "duration": "Jul 2021 - Present",
+                    "responsibilities": [
+                        "Assisted clients with queries related to financial products and services",
+                        "Resolved customer complaints and ensured high satisfaction levels",
+                        "Maintained accurate records of customer interactions and transactions",
+                        "Collaborated with internal teams to address client issues efficiently"
+                    ]
+                },
+                {
+                    "title": "Intern - Customer Service",
+                    "company": "Axis Bank",
+                    "duration": "Jan 2021 - Jun 2021",
+                    "responsibilities": [
+                        "Supported the customer service team in handling account-related queries",
+                        "Helped process documentation for new account openings",
+                        "Provided information on banking products to walk-in customers"
+                    ]
+                }
+            ]
+        },
+        "summary": "Motivated finance professional with 2 years of experience in customer support roles within the financial sector. Skilled in client relationship management, problem solving, and effective communication. Adept at handling customer queries and ensuring a positive client experience. Seeking to leverage my skills and knowledge in a dynamic finance environment.",
+        "dynamic_state": {
+            "risk_aversion": 0.2591817793182821,
+            "fail_count": 1
+        },
+        "status": "unmatched"
+    },
+    {
+        "seeker_id": "SEEKER_0040",
+        "profile": {
+            "gender": "Male",
+            "age": "28",
+            "industry": "Technology",
+            "skills": [
+                "Business Analysis",
+                "Data Visualization",
+                "SQL",
+                "Requirements Gathering",
+                "Process Improvement",
+                "Agile Methodologies",
+                "Stakeholder Management",
+                "Microsoft Power BI",
+                "JIRA",
+                "User Story Mapping",
+                "Data Modeling",
+                "Presentation Skills"
+            ],
+            "experience_years": "7",
+            "education": [
+                {
+                    "degree": "Bachelor of Science",
+                    "field": "Information Systems",
+                    "year": "2016"
+                },
+                {
+                    "degree": "Certification",
+                    "field": "Certified Business Analysis Professional (CBAP)",
+                    "year": "2019"
+                }
+            ],
+            "current_job_title": "Business Analyst",
+            "salary_expectation": "60k-80k",
+            "location": "East",
+            "work_history": [
+                {
+                    "title": "Business Analyst",
+                    "company": "TechNova Solutions",
+                    "duration": "2020 - Present",
+                    "responsibilities": [
+                        "Led requirements gathering and analysis for enterprise software projects, collaborating with cross-functional teams.",
+                        "Developed data models and visualizations to support business decision-making using Power BI and SQL.",
+                        "Facilitated Agile ceremonies and managed product backlogs in JIRA."
+                    ]
+                },
+                {
+                    "title": "Junior Business Analyst",
+                    "company": "InnoTech Systems",
+                    "duration": "2017 - 2020",
+                    "responsibilities": [
+                        "Assisted in documenting business processes and identifying areas for process improvement.",
+                        "Supported project managers in tracking deliverables and preparing project documentation.",
+                        "Conducted user acceptance testing and gathered feedback from stakeholders."
+                    ]
+                },
+                {
+                    "title": "Business Analyst Intern",
+                    "company": "EastEdge Technologies",
+                    "duration": "2016 - 2017",
+                    "responsibilities": [
+                        "Supported senior analysts in data collection and requirements documentation.",
+                        "Prepared reports and presentations for internal stakeholders."
+                    ]
+                }
+            ]
+        },
+        "summary": "Results-driven Business Analyst with 7 years of experience in the technology sector, specializing in requirements analysis, data visualization, and process improvement. Adept at collaborating with stakeholders to deliver actionable insights and drive business value. Proven track record in Agile environments and a strong commitment to continuous professional development.",
+        "dynamic_state": {
+            "risk_aversion": 0.2591817793182821,
+            "fail_count": 1
+        },
+        "status": "unmatched"
+    },
+    {
+        "seeker_id": "SEEKER_0041",
+        "profile": {
+            "gender": "Female",
+            "age": "23",
+            "industry": "Finance",
+            "skills": [
+                "Python",
+                "SQL",
+                "Financial Modeling",
+                "Data Analysis",
+                "Java",
+                "Excel (Advanced)",
+                "REST API Development",
+                "Git",
+                "Problem Solving",
+                "Team Collaboration"
+            ],
+            "experience_years": "2",
+            "education": [
+                {
+                    "degree": "Bachelor of Science",
+                    "field": "Computer Science",
+                    "year": "2021"
+                }
+            ],
+            "current_job_title": "Software Engineer",
+            "salary_expectation": "70,000",
+            "location": "North",
+            "work_history": [
+                {
+                    "title": "Software Engineer",
+                    "company": "FinEdge Solutions",
+                    "duration": "Jul 2021 - Present",
+                    "responsibilities": [
+                        "Developed and maintained financial analytics tools using Python and SQL.",
+                        "Collaborated with cross-functional teams to design and implement software solutions for investment analysis.",
+                        "Optimized data pipelines for real-time financial data processing.",
+                        "Participated in code reviews and contributed to improving software quality."
+                    ]
+                },
+                {
+                    "title": "Software Engineering Intern",
+                    "company": "NorthBank Technologies",
+                    "duration": "Jan 2021 - Jun 2021",
+                    "responsibilities": [
+                        "Assisted in building internal tools for risk assessment and reporting.",
+                        "Wrote unit tests and performed debugging for Java-based applications.",
+                        "Supported senior engineers in integrating APIs with banking systems."
+                    ]
+                }
+            ]
+        },
+        "summary": "Detail-oriented Software Engineer with 2 years of experience in the finance industry, specializing in developing robust financial applications and data-driven solutions. Proficient in Python, SQL, and financial modeling, with a strong foundation in computer science and a passion for leveraging technology to solve complex business challenges.",
+        "dynamic_state": {
+            "risk_aversion": 0.2591817793182821,
+            "fail_count": 1
+        },
+        "status": "unmatched"
+    },
+    {
+        "seeker_id": "SEEKER_0042",
+        "profile": {
+            "gender": "Female",
+            "age": "23",
+            "industry": "Education",
+            "skills": [
+                "Circuit Design",
+                "MATLAB",
+                "AutoCAD",
+                "Microcontroller Programming",
+                "Technical Documentation",
+                "Problem Solving",
+                "Team Collaboration",
+                "Project Management",
+                "Teaching Assistance"
+            ],
+            "experience_years": "2",
+            "education": [
+                {
+                    "degree": "Bachelor of Science",
+                    "field": "Electrical Engineering",
+                    "year": "2022"
+                }
+            ],
+            "current_job_title": "Electrical Engineer",
+            "salary_expectation": "50,000",
+            "location": "North",
+            "work_history": [
+                {
+                    "title": "Electrical Engineer",
+                    "company": "North Valley Technical College",
+                    "duration": "Aug 2022 - Present",
+                    "responsibilities": [
+                        "Assisted in the design and implementation of laboratory experiments for undergraduate courses",
+                        "Supported faculty in developing technical course materials and tutorials",
+                        "Maintained and calibrated laboratory equipment to ensure safety and accuracy",
+                        "Guided students in practical sessions and provided technical support"
+                    ]
+                },
+                {
+                    "title": "Teaching Assistant (Intern)",
+                    "company": "Northern Institute of Technology",
+                    "duration": "Jan 2022 - Jul 2022",
+                    "responsibilities": [
+                        "Supported professors in delivering lectures and managing classroom activities",
+                        "Helped students understand complex electrical engineering concepts",
+                        "Assisted in grading assignments and preparing laboratory setups"
+                    ]
+                }
+            ]
+        },
+        "summary": "Detail-oriented Electrical Engineer with 2 years of experience in academic and laboratory settings. Skilled in circuit design, technical documentation, and supporting educational initiatives. Adept at collaborating with faculty and students to enhance learning outcomes. Seeking to leverage technical expertise and passion for education in a dynamic academic environment.",
+        "dynamic_state": {
+            "risk_aversion": 0.2591817793182821,
+            "fail_count": 1
+        },
+        "status": "unmatched"
+    },
+    {
+        "seeker_id": "SEEKER_0043",
+        "profile": {
+            "gender": "Female",
+            "age": "24",
+            "industry": "Technology",
+            "skills": [
+                "Data Analysis",
+                "Python",
+                "SQL",
+                "Tableau",
+                "Power BI",
+                "Statistical Modeling",
+                "Data Visualization",
+                "Machine Learning (basic)",
+                "Excel",
+                "ETL Processes",
+                "Business Intelligence",
+                "Problem Solving",
+                "Communication"
+            ],
+            "experience_years": "7",
+            "education": [
+                {
+                    "degree": "Bachelor of Science",
+                    "field": "Computer Science",
+                    "year": "2021"
+                },
+                {
+                    "degree": "Professional Certificate",
+                    "field": "Data Analytics",
+                    "year": "2018"
+                }
+            ],
+            "current_job_title": "Data Analyst",
+            "salary_expectation": "50,000",
+            "location": "East",
+            "work_history": [
+                {
+                    "title": "Data Analyst",
+                    "company": "TechNova Solutions",
+                    "duration": "2021 - Present",
+                    "responsibilities": [
+                        "Developed and maintained dashboards using Tableau and Power BI for business performance tracking.",
+                        "Analyzed large datasets to identify trends and provide actionable insights to stakeholders.",
+                        "Collaborated with cross-functional teams to define data requirements and deliver analytical solutions.",
+                        "Automated data collection and cleaning processes using Python and SQL."
+                    ]
+                },
+                {
+                    "title": "Junior Data Analyst",
+                    "company": "InnoData Labs",
+                    "duration": "2018 - 2021",
+                    "responsibilities": [
+                        "Assisted in data extraction, transformation, and loading (ETL) processes.",
+                        "Created regular reports and visualizations for internal teams.",
+                        "Supported senior analysts in statistical modeling and hypothesis testing.",
+                        "Maintained data integrity and performed quality checks on incoming data."
+                    ]
+                },
+                {
+                    "title": "Data Intern",
+                    "company": "BrightTech Analytics",
+                    "duration": "2016 - 2018",
+                    "responsibilities": [
+                        "Supported data collection and entry for ongoing projects.",
+                        "Learned and applied basic data analysis techniques using Excel and SQL.",
+                        "Prepared summary reports for project leads."
+                    ]
+                }
+            ]
+        },
+        "summary": "Detail-oriented Data Analyst with over 7 years of experience in leveraging data-driven insights to support business decision-making. Proficient in Python, SQL, and data visualization tools, with a strong background in statistical analysis and business intelligence. Adept at collaborating with cross-functional teams and delivering actionable solutions in fast-paced technology environments.",
+        "dynamic_state": {
+            "risk_aversion": 0.2591817793182821,
+            "fail_count": 1
+        },
+        "status": "unmatched"
+    },
+    {
+        "seeker_id": "SEEKER_0044",
+        "profile": {
+            "gender": "Male",
+            "age": "38",
+            "industry": "Education",
+            "skills": [
+                "Python",
+                "Java",
+                "Web Development",
+                "SQL",
+                "Problem Solving",
+                "Classroom Technology Integration",
+                "Communication",
+                "Teamwork"
+            ],
+            "experience_years": "2",
+            "education": [
+                {
+                    "degree": "Bachelor of Technology",
+                    "field": "Computer Science",
+                    "year": "2010"
+                },
+                {
+                    "degree": "Post Graduate Diploma",
+                    "field": "Education Technology",
+                    "year": "2021"
+                }
+            ],
+            "current_job_title": "Software Engineer",
+            "salary_expectation": "30,000",
+            "location": "South",
+            "work_history": [
+                {
+                    "title": "Software Engineer",
+                    "company": "EduTech Solutions Pvt. Ltd.",
+                    "duration": "2022 - Present",
+                    "responsibilities": [
+                        "Developed and maintained web-based educational platforms for schools and colleges.",
+                        "Collaborated with educators to integrate technology into classroom environments.",
+                        "Provided technical support and training to teaching staff on new software tools."
+                    ]
+                },
+                {
+                    "title": "IT Support Assistant",
+                    "company": "Bright Future Academy",
+                    "duration": "2021 - 2022",
+                    "responsibilities": [
+                        "Assisted in the deployment and maintenance of classroom technology.",
+                        "Supported teachers in using digital learning resources.",
+                        "Troubleshot software and hardware issues in the school computer lab."
+                    ]
+                }
+            ]
+        },
+        "summary": "Motivated software engineer with 2 years of experience in the education sector, skilled in developing and supporting technology solutions for learning environments. Strong background in programming, web development, and classroom technology integration. Adept at collaborating with educators to enhance teaching and learning through innovative digital tools.",
+        "dynamic_state": {
+            "risk_aversion": 0.2,
+            "fail_count": 0
+        },
+        "status": "matched"
+    },
+    {
+        "seeker_id": "SEEKER_0045",
+        "profile": {
+            "gender": "Male",
+            "age": "38",
+            "industry": "Technology",
+            "skills": [
+                "Financial Analysis",
+                "Data Visualization",
+                "Microsoft Excel",
+                "SQL",
+                "Budgeting",
+                "Financial Modeling",
+                "Power BI",
+                "Python (basic)",
+                "Business Intelligence",
+                "Report Generation"
+            ],
+            "experience_years": "2",
+            "education": [
+                {
+                    "degree": "Bachelor of Science",
+                    "field": "Finance",
+                    "year": "2010"
+                },
+                {
+                    "degree": "Certification",
+                    "field": "Data Analytics",
+                    "year": "2021"
+                }
+            ],
+            "current_job_title": "Financial Analyst",
+            "salary_expectation": "50,000",
+            "location": "South",
+            "work_history": [
+                {
+                    "title": "Financial Analyst",
+                    "company": "TechNova Solutions",
+                    "duration": "2022 - Present",
+                    "responsibilities": [
+                        "Analyzed financial data to support business decision-making for technology projects",
+                        "Developed and maintained financial models and dashboards using Excel and Power BI",
+                        "Collaborated with cross-functional teams to prepare budgets and forecasts",
+                        "Generated monthly and quarterly financial reports for management"
+                    ]
+                },
+                {
+                    "title": "Junior Financial Analyst",
+                    "company": "InnoTech Systems",
+                    "duration": "2021 - 2022",
+                    "responsibilities": [
+                        "Assisted in preparing financial statements and variance analysis",
+                        "Supported the automation of reporting processes using SQL and Python",
+                        "Conducted market research to benchmark technology costs",
+                        "Participated in internal audits and compliance reviews"
+                    ]
+                }
+            ]
+        },
+        "summary": "Detail-oriented Financial Analyst with 2 years of experience in the technology sector, skilled in financial modeling, data analysis, and business intelligence tools. Adept at supporting strategic decision-making through accurate financial reporting and insightful data visualization. Eager to contribute analytical expertise and a collaborative approach to a dynamic technology-driven organization.",
+        "dynamic_state": {
+            "risk_aversion": 0.2591817793182821,
+            "fail_count": 1
+        },
+        "status": "unmatched"
+    },
+    {
+        "seeker_id": "SEEKER_0046",
+        "profile": {
+            "gender": "Male",
+            "age": "38",
+            "industry": "Finance",
+            "skills": [
+                "Project Management",
+                "Financial Analysis",
+                "Budgeting",
+                "Stakeholder Management",
+                "Risk Assessment",
+                "Process Improvement",
+                "Team Leadership",
+                "MS Excel",
+                "Financial Reporting",
+                "Agile Methodologies"
+            ],
+            "experience_years": "6",
+            "education": [
+                {
+                    "degree": "Bachelor of Science",
+                    "field": "Finance",
+                    "year": "2008"
+                },
+                {
+                    "degree": "Master of Business Administration",
+                    "field": "Project Management",
+                    "year": "2012"
+                }
+            ],
+            "current_job_title": "Project Manager",
+            "salary_expectation": "70,000",
+            "location": "West",
+            "work_history": [
+                {
+                    "title": "Project Manager",
+                    "company": "Westbridge Financial Services",
+                    "duration": "2019 - Present",
+                    "responsibilities": [
+                        "Led cross-functional teams to deliver financial system upgrades on time and within budget",
+                        "Managed project budgets exceeding $2M and ensured alignment with organizational goals",
+                        "Coordinated with stakeholders to define project scope and deliverables",
+                        "Implemented process improvements that reduced project delivery time by 15%"
+                    ]
+                },
+                {
+                    "title": "Assistant Project Manager",
+                    "company": "Summit Capital Group",
+                    "duration": "2016 - 2019",
+                    "responsibilities": [
+                        "Supported senior project managers in planning and executing finance-related projects",
+                        "Monitored project progress and prepared regular status reports for management",
+                        "Assisted in risk assessment and mitigation planning",
+                        "Facilitated communication between technical teams and business stakeholders"
+                    ]
+                },
+                {
+                    "title": "Financial Analyst",
+                    "company": "Pioneer Investments",
+                    "duration": "2013 - 2016",
+                    "responsibilities": [
+                        "Conducted financial analysis to support investment decisions",
+                        "Prepared monthly and quarterly financial reports",
+                        "Collaborated with project teams to analyze cost-benefit scenarios",
+                        "Assisted in the development of annual budgets and forecasts"
+                    ]
+                }
+            ]
+        },
+        "summary": "Results-driven Project Manager with 6 years of experience in the finance industry, specializing in leading cross-functional teams, managing complex projects, and driving process improvements. Adept at financial analysis, budgeting, and stakeholder management, with a proven track record of delivering projects on time and within budget. Seeking to leverage expertise in project management and finance to contribute to organizational success.",
+        "dynamic_state": {
+            "risk_aversion": 0.2,
+            "fail_count": 0
+        },
+        "status": "matched"
+    },
+    {
+        "seeker_id": "SEEKER_0047",
+        "profile": {
+            "gender": "Female",
+            "age": "42",
+            "industry": "Technology",
+            "skills": [
+                "Adobe Photoshop",
+                "Adobe Illustrator",
+                "UI Design",
+                "Branding",
+                "Typography",
+                "Color Theory",
+                "Figma",
+                "Digital Illustration",
+                "Attention to Detail",
+                "Time Management"
+            ],
+            "experience_years": "2",
+            "education": [
+                {
+                    "degree": "Diploma",
+                    "field": "Graphic Design",
+                    "year": "2021"
+                },
+                {
+                    "degree": "Bachelor of Arts",
+                    "field": "Fine Arts",
+                    "year": "2003"
+                }
+            ],
+            "current_job_title": "Graphic Designer",
+            "salary_expectation": "20k-40k",
+            "location": "South",
+            "work_history": [
+                {
+                    "title": "Graphic Designer",
+                    "company": "PixelCraft Studios",
+                    "duration": "2022 - Present",
+                    "responsibilities": [
+                        "Designed digital assets for web and mobile applications",
+                        "Collaborated with developers and marketing teams to deliver cohesive branding",
+                        "Created visual content for social media campaigns"
+                    ]
+                },
+                {
+                    "title": "Junior Graphic Designer (Intern)",
+                    "company": "Bright Ideas Tech",
+                    "duration": "2021 - 2022",
+                    "responsibilities": [
+                        "Assisted in designing logos and marketing materials",
+                        "Supported senior designers in client projects",
+                        "Prepared mockups and presentations for client review"
+                    ]
+                }
+            ]
+        },
+        "summary": "Creative and detail-oriented Graphic Designer with 2 years of experience in the technology sector. Skilled in Adobe Creative Suite, UI design, and branding, with a strong foundation in fine arts. Adept at collaborating with cross-functional teams to deliver visually compelling digital solutions. Seeking to contribute innovative design expertise to a dynamic organization in the South region.",
+        "dynamic_state": {
+            "risk_aversion": 0.2,
+            "fail_count": 0
+        },
+        "status": "matched"
+    },
+    {
+        "seeker_id": "SEEKER_0048",
+        "profile": {
+            "gender": "Male",
+            "age": "33",
+            "industry": "Technology",
+            "skills": [
+                "User Experience Design",
+                "Wireframing",
+                "Prototyping",
+                "User Research",
+                "Interaction Design",
+                "Figma",
+                "Adobe XD",
+                "Usability Testing",
+                "Information Architecture",
+                "Responsive Design",
+                "Design Thinking",
+                "HTML/CSS (basic)"
+            ],
+            "experience_years": "5",
+            "education": [
+                {
+                    "degree": "Bachelor of Science",
+                    "field": "Human-Computer Interaction",
+                    "year": "2014"
+                },
+                {
+                    "degree": "Certification",
+                    "field": "UX Design",
+                    "year": "2016"
+                }
+            ],
+            "current_job_title": "UX Designer",
+            "salary_expectation": "50,000",
+            "location": "South",
+            "work_history": [
+                {
+                    "title": "UX Designer",
+                    "company": "BrightApps Solutions",
+                    "duration": "Feb 2021 - Present",
+                    "responsibilities": [
+                        "Lead end-to-end UX design for mobile and web applications",
+                        "Conduct user research and usability testing to inform design decisions",
+                        "Collaborate with product managers and developers to deliver user-centered solutions",
+                        "Create wireframes, prototypes, and high-fidelity mockups using Figma and Adobe XD"
+                    ]
+                },
+                {
+                    "title": "Junior UX Designer",
+                    "company": "TechNova Digital",
+                    "duration": "Jan 2018 - Jan 2021",
+                    "responsibilities": [
+                        "Assisted in designing user flows and wireframes for SaaS products",
+                        "Supported senior designers in conducting user interviews and surveys",
+                        "Participated in design sprints and brainstorming sessions",
+                        "Maintained design documentation and style guides"
+                    ]
+                },
+                {
+                    "title": "UI/UX Intern",
+                    "company": "PixelCraft Studio",
+                    "duration": "Jun 2017 - Dec 2017",
+                    "responsibilities": [
+                        "Created low-fidelity wireframes and interactive prototypes",
+                        "Assisted in user testing sessions and compiled feedback reports",
+                        "Worked closely with the design team to iterate on product features"
+                    ]
+                }
+            ]
+        },
+        "summary": "Detail-oriented UX Designer with 5 years of experience in creating intuitive and engaging digital experiences. Skilled in user research, wireframing, prototyping, and usability testing. Adept at collaborating with cross-functional teams to deliver user-centered solutions that drive business results. Passionate about solving complex problems through design thinking and continuous user feedback.",
+        "dynamic_state": {
+            "risk_aversion": 0.2,
+            "fail_count": 0
+        },
+        "status": "matched"
+    },
+    {
+        "seeker_id": "SEEKER_0049",
+        "profile": {
+            "gender": "Male",
+            "age": "33",
+            "industry": "Technology",
+            "skills": [
+                "Circuit Design",
+                "PCB Layout",
+                "Embedded Systems",
+                "MATLAB",
+                "AutoCAD Electrical",
+                "Microcontroller Programming",
+                "Schematic Capture",
+                "Signal Processing",
+                "Troubleshooting",
+                "Project Management"
+            ],
+            "experience_years": "2",
+            "education": [
+                {
+                    "degree": "Bachelor of Science",
+                    "field": "Electrical Engineering",
+                    "year": "2018"
+                }
+            ],
+            "current_job_title": "Electrical Engineer",
+            "salary_expectation": "80k-100k",
+            "location": "East",
+            "work_history": [
+                {
+                    "title": "Electrical Engineer",
+                    "company": "EastTech Solutions",
+                    "duration": "2022 - Present",
+                    "responsibilities": [
+                        "Designed and tested analog and digital circuits for industrial automation projects",
+                        "Collaborated with cross-functional teams to develop embedded control systems",
+                        "Prepared technical documentation and assisted in PCB layout design",
+                        "Provided on-site troubleshooting and support for electrical systems"
+                    ]
+                },
+                {
+                    "title": "Junior Electrical Engineer",
+                    "company": "Innovatech Electronics",
+                    "duration": "2020 - 2022",
+                    "responsibilities": [
+                        "Assisted in the development of microcontroller-based prototypes",
+                        "Conducted simulations and analysis using MATLAB and SPICE tools",
+                        "Supported senior engineers in project planning and execution",
+                        "Participated in quality assurance and compliance testing"
+                    ]
+                }
+            ]
+        },
+        "summary": "Detail-oriented Electrical Engineer with 2 years of experience in circuit design, embedded systems, and project management within the technology sector. Adept at collaborating with multidisciplinary teams to deliver innovative solutions and ensure project success. Strong technical background with hands-on expertise in troubleshooting, schematic capture, and PCB layout.",
+        "dynamic_state": {
+            "risk_aversion": 0.2,
+            "fail_count": 0
+        },
+        "status": "matched"
+    }
+]

@@ -1,0 +1,477 @@
+[
+    {
+        "job_id": "JOB_0000",
+        "company_name": "TechNova Solutions",
+        "job_title": "Marketing Specialist",
+        "requirements": {
+            "required_skills": [
+                "Digital marketing",
+                "Content creation",
+                "Social media management",
+                "Data analysis",
+                "SEO/SEM",
+                "Email marketing",
+                "Campaign management",
+                "Excellent written and verbal communication"
+            ],
+            "required_experience": "0-2 years of relevant marketing experience, preferably in the technology sector. Proven ability to execute marketing campaigns and analyze performance metrics is highly valued.",
+            "education_level": "Bachelor's degree in Marketing, Business, Communications, or a related field",
+            "location": "East"
+        },
+        "salary_range": "$120,000+",
+        "summary": "TechNova Solutions is seeking a Marketing Specialist to join our dynamic team in the East region. The ideal candidate will have 0-2 years of hands-on experience in marketing, with a strong preference for individuals who have demonstrated success in executing digital campaigns within the technology industry. You will be responsible for supporting the development and implementation of marketing strategies, managing digital channels, and analyzing campaign performance to drive business growth. This role offers a competitive salary and the opportunity to work with innovative products in a fast-evolving market.",
+        "hiring_personality": "prefers_experience",
+        "status": "filled"
+    },
+    {
+        "job_id": "JOB_0001",
+        "company_name": "TechNova Solutions",
+        "job_title": "Financial Analyst",
+        "requirements": {
+            "required_skills": [
+                "Financial modeling",
+                "Data analysis",
+                "Proficiency in Microsoft Excel",
+                "Familiarity with financial reporting tools",
+                "Strong analytical and problem-solving skills",
+                "Effective communication",
+                "Attention to detail"
+            ],
+            "required_experience": "2-5 years of experience in financial analysis, preferably within the technology sector.",
+            "education_level": "Bachelor\u2019s degree in Finance, Accounting, Economics, or a related field.",
+            "location": "South"
+        },
+        "salary_range": "$40,000 - $60,000",
+        "summary": "TechNova Solutions is seeking a motivated Financial Analyst to join our dynamic team in the South region. This role is ideal for individuals eager to grow their expertise in financial analysis within the fast-evolving technology industry. You will support budgeting, forecasting, and financial planning processes, while collaborating with cross-functional teams to drive business insights. We value candidates who demonstrate strong analytical skills, a willingness to learn, and the potential to take on increasing responsibility as our company grows.",
+        "hiring_personality": "prefers_potential",
+        "status": "filled"
+    },
+    {
+        "job_id": "JOB_0002",
+        "company_name": "NorthTech Solutions",
+        "job_title": "Sales Representative",
+        "requirements": {
+            "required_skills": [
+                "B2B sales",
+                "CRM software proficiency (e.g., Salesforce)",
+                "Excellent communication and negotiation",
+                "Lead generation and prospecting",
+                "Relationship building",
+                "Presentation skills",
+                "Tech industry knowledge"
+            ],
+            "required_experience": "2-5 years of sales experience in the technology sector",
+            "education_level": "Bachelor's degree in Business, Marketing, or a related field",
+            "location": "North"
+        },
+        "salary_range": "$80,000 - $100,000",
+        "summary": "NorthTech Solutions is seeking a dynamic Sales Representative to join our collaborative team in the North region. In this role, you will drive revenue growth by building strong client relationships and delivering tailored technology solutions. We value individuals who thrive in a team-oriented environment, embrace our core values of integrity and innovation, and contribute positively to our inclusive company culture. If you are passionate about technology sales and enjoy working with a supportive, high-energy team, we would love to meet you.",
+        "hiring_personality": "culture_fit_focused",
+        "status": "filled"
+    },
+    {
+        "job_id": "JOB_0003",
+        "company_name": "NorthTech Solutions",
+        "job_title": "UX Designer",
+        "requirements": {
+            "required_skills": [
+                "User research",
+                "Wireframing and prototyping",
+                "Interaction design",
+                "Figma or Sketch proficiency",
+                "Usability testing",
+                "Collaboration with cross-functional teams",
+                "Strong communication skills",
+                "Empathy for users"
+            ],
+            "required_experience": "0-2 years of experience in UX design or a related field",
+            "education_level": "Bachelor\u2019s degree in Design, Human-Computer Interaction, Psychology, or a related discipline",
+            "location": "North"
+        },
+        "salary_range": "$60,000 - $80,000",
+        "summary": "NorthTech Solutions is seeking a passionate and purpose-driven UX Designer to join our growing team in the North region. In this role, you will help shape digital experiences that make a real difference in users\u2019 lives. You will collaborate closely with product managers, engineers, and fellow designers to create intuitive, accessible, and impactful solutions. If you are motivated by meaningful work and eager to contribute to projects that align with a greater mission, we encourage you to apply.",
+        "hiring_personality": "mission_driven",
+        "status": "filled"
+    },
+    {
+        "job_id": "JOB_0004",
+        "company_name": "NorthTech Solutions",
+        "job_title": "Sales Representative",
+        "requirements": {
+            "required_skills": [
+                "B2B technology sales",
+                "Lead generation",
+                "CRM software proficiency (e.g., Salesforce)",
+                "Negotiation and closing skills",
+                "Strong communication and presentation abilities",
+                "Account management",
+                "Market research"
+            ],
+            "required_experience": "2-5 years of proven sales experience in the technology sector, with a demonstrated track record of meeting or exceeding targets.",
+            "education_level": "Bachelor's degree in Business, Marketing, or a related field",
+            "location": "North"
+        },
+        "salary_range": "$120,000+ (base salary plus commission and incentives)",
+        "summary": "NorthTech Solutions is seeking an experienced Sales Representative to join our dynamic team in the North region. The ideal candidate will have a strong background in technology sales, a proven ability to build and maintain client relationships, and a consistent record of achieving sales targets. This role offers a competitive compensation package and the opportunity to work with innovative products in a rapidly growing market.",
+        "hiring_personality": "prefers_experience",
+        "status": "filled"
+    },
+    {
+        "job_id": "JOB_0005",
+        "company_name": "Summit Financial Group",
+        "job_title": "Financial Analyst",
+        "requirements": {
+            "required_skills": [
+                "Financial modeling",
+                "Data analysis",
+                "Advanced Excel proficiency",
+                "Budgeting and forecasting",
+                "Report preparation",
+                "Strong communication skills",
+                "Attention to detail",
+                "Problem-solving"
+            ],
+            "required_experience": "5+ years of experience in financial analysis or a related finance role",
+            "education_level": "Bachelor\u2019s degree in Finance, Accounting, Economics, or a related field (Master\u2019s degree or CFA a plus)",
+            "location": "West"
+        },
+        "salary_range": "$60,000 - $80,000",
+        "summary": "Summit Financial Group is seeking a Financial Analyst with a passion for learning and professional growth. In this role, you will collaborate with cross-functional teams to analyze financial data, develop insightful reports, and support strategic decision-making. We value individuals who are eager to expand their expertise, embrace new challenges, and contribute fresh perspectives to our dynamic finance team. If you are driven to grow and ready to take the next step in your finance career, we encourage you to apply.",
+        "hiring_personality": "prefers_potential",
+        "status": "filled"
+    },
+    {
+        "job_id": "JOB_0006",
+        "company_name": "Southern Financial Solutions",
+        "job_title": "Sales Representative",
+        "requirements": {
+            "required_skills": [
+                "Excellent communication and interpersonal skills",
+                "Strong customer service orientation",
+                "Ability to build and maintain client relationships",
+                "Basic understanding of financial products and services",
+                "Goal-oriented mindset",
+                "Team collaboration"
+            ],
+            "required_experience": "0-2 years of sales or customer service experience, preferably in finance or related industries",
+            "education_level": "Bachelor's degree in Business, Finance, Marketing, or a related field",
+            "location": "South"
+        },
+        "salary_range": "$40,000 - $60,000",
+        "summary": "Southern Financial Solutions is seeking a Sales Representative to join our dynamic team in the South region. This entry-level role is ideal for individuals who are passionate about building relationships and eager to grow within the finance industry. As a company that values collaboration, integrity, and a positive work environment, we are looking for candidates who thrive in team settings and are committed to upholding our strong company culture. You will be responsible for identifying client needs, presenting tailored financial solutions, and contributing to a supportive and inclusive workplace.",
+        "hiring_personality": "culture_fit_focused",
+        "status": "filled"
+    },
+    {
+        "job_id": "JOB_0007",
+        "company_name": "TechNova Solutions",
+        "job_title": "Accountant",
+        "requirements": {
+            "required_skills": [
+                "General ledger accounting",
+                "Financial reporting",
+                "Accounts payable and receivable",
+                "Reconciliation",
+                "Proficiency in accounting software (e.g., QuickBooks, SAP, Oracle)",
+                "Advanced Excel skills",
+                "Knowledge of GAAP",
+                "Attention to detail",
+                "Analytical thinking",
+                "Strong organizational skills"
+            ],
+            "required_experience": "2-5 years of professional accounting experience, preferably within the technology sector. Demonstrated ability to manage multiple accounting functions independently.",
+            "education_level": "Bachelor\u2019s degree in Accounting, Finance, or a related field",
+            "location": "East"
+        },
+        "salary_range": "$60,000 - $80,000",
+        "summary": "TechNova Solutions is seeking an experienced Accountant to join our dynamic finance team in the East region. The ideal candidate will have a proven track record in managing core accounting functions, preparing accurate financial statements, and supporting compliance within a fast-evolving technology environment. This role requires a detail-oriented professional who can work independently and contribute to the financial integrity of our organization.",
+        "hiring_personality": "prefers_experience",
+        "status": "filled"
+    },
+    {
+        "job_id": "JOB_0008",
+        "company_name": "NorthTech Solutions",
+        "job_title": "Project Manager",
+        "requirements": {
+            "required_skills": [
+                "Strong organizational and time management skills",
+                "Excellent communication and interpersonal abilities",
+                "Basic understanding of project management methodologies (Agile, Scrum, or Waterfall)",
+                "Problem-solving mindset",
+                "Proficiency with project management tools (e.g., Trello, Asana, Jira)",
+                "Ability to collaborate with cross-functional teams",
+                "Eagerness to learn and adapt in a fast-evolving environment"
+            ],
+            "required_experience": "0-2 years in project management or related field",
+            "education_level": "Bachelor\u2019s degree in Computer Science, Information Technology, Business Administration, or a related field",
+            "location": "North"
+        },
+        "salary_range": "$80,000 - $100,000",
+        "summary": "NorthTech Solutions is seeking an enthusiastic and driven Project Manager to join our growing technology team in the North region. This is an excellent opportunity for early-career professionals who are passionate about technology and eager to develop their project management skills. As a Project Manager, you will work closely with experienced mentors, lead small-scale projects, and play a key role in ensuring project success from initiation to delivery. We value potential and are committed to supporting your professional growth through hands-on experience, training, and continuous learning opportunities.",
+        "hiring_personality": "prefers_potential",
+        "status": "filled"
+    },
+    {
+        "job_id": "JOB_0009",
+        "company_name": "NorthTech Solutions",
+        "job_title": "Electrical Engineer",
+        "requirements": {
+            "required_skills": [
+                "Circuit design and analysis",
+                "Embedded systems development",
+                "PCB layout and troubleshooting",
+                "Proficiency with CAD tools (e.g., Altium, Eagle)",
+                "Familiarity with microcontrollers and FPGA",
+                "Strong problem-solving skills",
+                "Knowledge of industry safety standards",
+                "Excellent communication and teamwork"
+            ],
+            "required_experience": "5+ years in electrical engineering or related field",
+            "education_level": "Bachelor\u2019s degree or higher in Electrical Engineering or a related discipline",
+            "location": "North"
+        },
+        "salary_range": "40k-60k",
+        "summary": "NorthTech Solutions is seeking a motivated Electrical Engineer to join our innovative technology team in the North region. This role is ideal for professionals eager to expand their expertise and grow within a dynamic environment. You will be responsible for designing, developing, and testing electrical systems and components for our cutting-edge products. We value candidates who demonstrate a strong willingness to learn, adapt to new challenges, and contribute fresh ideas to our collaborative projects.",
+        "hiring_personality": "prefers_potential",
+        "status": "filled"
+    },
+    {
+        "job_id": "JOB_0010",
+        "company_name": "NorthStar Financial Solutions",
+        "job_title": "Sales Representative",
+        "requirements": {
+            "required_skills": [
+                "Client relationship management",
+                "Financial product knowledge",
+                "Effective communication",
+                "Negotiation skills",
+                "Lead generation",
+                "Presentation skills",
+                "CRM software proficiency"
+            ],
+            "required_experience": "2-5 years in sales, preferably within the finance industry",
+            "education_level": "Bachelor's degree in Business, Finance, Marketing, or a related field",
+            "location": "North"
+        },
+        "salary_range": "20k-40k",
+        "summary": "NorthStar Financial Solutions is seeking a motivated Sales Representative to join our dynamic team in the North region. This role is ideal for individuals who are eager to grow their careers in finance sales, with a strong focus on learning and professional development. As a Sales Representative, you will identify new business opportunities, build lasting client relationships, and promote our suite of financial products and services. We value potential and are committed to supporting your growth through ongoing training and mentorship.",
+        "hiring_personality": "prefers_potential",
+        "status": "filled"
+    },
+    {
+        "job_id": "JOB_0011",
+        "company_name": "Southern Financial Solutions",
+        "job_title": "UX Designer",
+        "requirements": {
+            "required_skills": [
+                "User research",
+                "Wireframing and prototyping",
+                "Interaction design",
+                "Usability testing",
+                "Figma or Sketch",
+                "Collaboration with cross-functional teams",
+                "Understanding of financial products",
+                "Strong communication skills"
+            ],
+            "required_experience": "2-5 years of experience in UX design, preferably within the finance industry or related sectors.",
+            "education_level": "Bachelor\u2019s degree in Design, Human-Computer Interaction, Psychology, or a related field.",
+            "location": "South"
+        },
+        "salary_range": "40k-60k",
+        "summary": "Southern Financial Solutions is seeking a motivated UX Designer to join our growing team in the South. This role is ideal for individuals who are passionate about creating intuitive digital experiences and eager to develop their skills in the finance sector. We value potential and a willingness to learn, offering opportunities for professional growth and mentorship. As a UX Designer, you will collaborate with product managers and developers to design user-centric solutions that simplify complex financial products for our clients.",
+        "hiring_personality": "prefers_potential",
+        "status": "filled"
+    },
+    {
+        "job_id": "JOB_0012",
+        "company_name": "WestHealth Research Institute",
+        "job_title": "Research Scientist",
+        "requirements": {
+            "required_skills": [
+                "Data analysis",
+                "Laboratory techniques",
+                "Scientific writing",
+                "Critical thinking",
+                "Collaboration",
+                "Attention to detail",
+                "Statistical software (e.g., SPSS, R, or Python)"
+            ],
+            "required_experience": "0-2 years of research experience in a healthcare or life sciences setting",
+            "education_level": "Master's degree or higher in Biology, Chemistry, Biomedical Sciences, or a related field",
+            "location": "West Region (on-site or hybrid options available)"
+        },
+        "salary_range": "$60,000 - $80,000 per year",
+        "summary": "WestHealth Research Institute is seeking an enthusiastic and motivated Research Scientist to join our dynamic team in the West region. This is an excellent opportunity for early-career scientists who are eager to learn, grow, and contribute to impactful healthcare research. The ideal candidate will demonstrate strong analytical skills, a passion for scientific discovery, and the ability to thrive in a collaborative environment. We value potential and are committed to supporting your professional development through mentorship and hands-on experience in cutting-edge research projects.",
+        "hiring_personality": "prefers_potential",
+        "status": "filled"
+    },
+    {
+        "job_id": "JOB_0013",
+        "company_name": "Southern Financial Solutions",
+        "job_title": "Product Manager",
+        "requirements": {
+            "required_skills": [
+                "Product lifecycle management",
+                "Market research and analysis",
+                "Financial product development",
+                "Stakeholder communication",
+                "Agile methodologies",
+                "Data-driven decision making",
+                "Cross-functional team leadership",
+                "Problem-solving"
+            ],
+            "required_experience": "5+ years in product management, preferably within the finance industry",
+            "education_level": "Bachelor's degree in Business, Finance, Economics, or related field (Master's preferred)",
+            "location": "South"
+        },
+        "salary_range": "$80,000 - $100,000",
+        "summary": "Southern Financial Solutions is seeking a dynamic Product Manager to join our team in the South region. This role is ideal for individuals who are passionate about financial innovation and eager to grow their expertise in product management. You will be responsible for driving the development and enhancement of our financial products, collaborating with cross-functional teams, and leveraging market insights to deliver value to our clients. We are looking for candidates who demonstrate strong potential, a willingness to learn, and the drive to take on new challenges in a supportive and growth-oriented environment.",
+        "hiring_personality": "prefers_potential",
+        "status": "filled"
+    },
+    {
+        "job_id": "JOB_0014",
+        "company_name": "Eastway Retail Solutions",
+        "job_title": "Electrical Engineer",
+        "requirements": {
+            "required_skills": [
+                "Electrical system design",
+                "Retail facility maintenance",
+                "AutoCAD or similar CAD software",
+                "Project management",
+                "Troubleshooting and diagnostics",
+                "Knowledge of safety and compliance standards",
+                "Strong communication skills",
+                "Team collaboration"
+            ],
+            "required_experience": "2-5 years of experience in electrical engineering, preferably within the retail or commercial facilities sector.",
+            "education_level": "Bachelor\u2019s degree in Electrical Engineering or a related field",
+            "location": "East"
+        },
+        "salary_range": "$60,000 - $80,000",
+        "summary": "Eastway Retail Solutions is seeking a dedicated Electrical Engineer to join our dynamic team in the East region. In this role, you will be responsible for designing, maintaining, and improving electrical systems across our retail locations. We are looking for a team player who thrives in a collaborative environment and is passionate about contributing to a positive workplace culture. If you value open communication, mutual respect, and are eager to make a meaningful impact within a supportive team, we encourage you to apply.",
+        "hiring_personality": "culture_fit_focused",
+        "status": "filled"
+    },
+    {
+        "job_id": "JOB_0015",
+        "company_name": "TechNova Solutions",
+        "job_title": "Marketing Specialist",
+        "requirements": {
+            "required_skills": [
+                "Digital marketing strategy",
+                "Content creation and management",
+                "SEO/SEM",
+                "Marketing analytics and reporting",
+                "Social media management",
+                "Email marketing campaigns",
+                "Project management",
+                "Strong written and verbal communication"
+            ],
+            "required_experience": "5+ years of experience in marketing roles within the technology sector",
+            "education_level": "Bachelor's degree in Marketing, Communications, Business, or a related field",
+            "location": "East"
+        },
+        "salary_range": "$60,000 - $80,000",
+        "summary": "TechNova Solutions is seeking a dynamic and results-driven Marketing Specialist to join our fast-paced team in the East region. In this role, you will develop and execute innovative marketing strategies to drive brand awareness and lead generation for our technology products and services. The ideal candidate thrives in a rapidly changing environment, demonstrates agility in managing multiple projects, and adapts quickly to new trends and technologies. If you are passionate about technology marketing and excel under pressure, we want to hear from you.",
+        "hiring_personality": "fast_paced_environment",
+        "status": "filled"
+    },
+    {
+        "job_id": "JOB_0016",
+        "company_name": "NorthTech Solutions",
+        "job_title": "Marketing Specialist",
+        "requirements": {
+            "required_skills": [
+                "Digital marketing strategy",
+                "Content creation and copywriting",
+                "SEO/SEM",
+                "Social media management",
+                "Marketing analytics and reporting",
+                "Email marketing campaigns",
+                "Project management",
+                "Familiarity with marketing automation tools (e.g., HubSpot, Marketo)"
+            ],
+            "required_experience": "2-5 years of proven experience in a marketing role within the technology sector, with a demonstrated track record of successful campaign execution.",
+            "education_level": "Bachelor\u2019s degree in Marketing, Communications, Business, or a related field",
+            "location": "North"
+        },
+        "salary_range": "$60,000 - $80,000",
+        "summary": "NorthTech Solutions is seeking an experienced Marketing Specialist to join our dynamic team in the North region. The ideal candidate will have a strong background in digital marketing within the technology industry, with 2-5 years of hands-on experience driving successful campaigns. You will be responsible for developing and executing marketing strategies, managing digital channels, and analyzing campaign performance to support our business growth. We are looking for a results-driven professional with a proven ability to deliver measurable outcomes in a fast-evolving tech environment.",
+        "hiring_personality": "prefers_experience",
+        "status": "filled"
+    },
+    {
+        "job_id": "JOB_0017",
+        "company_name": "TechNova Solutions",
+        "job_title": "Financial Analyst",
+        "requirements": {
+            "required_skills": [
+                "Financial modeling",
+                "Data analysis",
+                "Advanced Excel proficiency",
+                "Budgeting and forecasting",
+                "Familiarity with ERP systems (e.g., SAP, Oracle)",
+                "Strong attention to detail",
+                "Excellent communication skills",
+                "Problem-solving abilities"
+            ],
+            "required_experience": "2-5 years of experience in financial analysis, preferably within the technology sector. Demonstrated track record of supporting business decisions through data-driven insights.",
+            "education_level": "Bachelor\u2019s degree in Finance, Accounting, Economics, or a related field",
+            "location": "West"
+        },
+        "salary_range": "$40,000 - $60,000",
+        "summary": "TechNova Solutions is seeking an experienced Financial Analyst to join our dynamic team in the West region. The ideal candidate will have a proven background in financial analysis, with 2-5 years of relevant experience, and a strong ability to interpret complex data to support strategic business decisions. You will play a key role in budgeting, forecasting, and providing actionable insights to drive company growth. If you have a solid track record in financial analysis and are looking to advance your career in the technology industry, we encourage you to apply.",
+        "hiring_personality": "prefers_experience",
+        "status": "filled"
+    },
+    {
+        "job_id": "JOB_0018",
+        "company_name": "Southern Financial Solutions",
+        "job_title": "Project Manager",
+        "requirements": {
+            "required_skills": [
+                "Strong organizational and time management skills",
+                "Excellent verbal and written communication",
+                "Basic understanding of financial concepts",
+                "Proficiency in Microsoft Office Suite (Excel, PowerPoint, Word)",
+                "Ability to collaborate with cross-functional teams",
+                "Problem-solving and analytical thinking",
+                "Eagerness to learn project management methodologies"
+            ],
+            "required_experience": "0-2 years of relevant experience in project coordination, finance, or related fields",
+            "education_level": "Bachelor\u2019s degree in Finance, Business Administration, or a related discipline",
+            "location": "South"
+        },
+        "salary_range": "$40,000 - $60,000",
+        "summary": "Southern Financial Solutions is seeking an enthusiastic and driven Project Manager to join our growing team in the South region. This is an excellent opportunity for recent graduates or early-career professionals eager to develop their project management skills within the finance industry. You will support the planning, execution, and delivery of financial projects, working closely with experienced team members and stakeholders. We value potential and are committed to providing mentorship, training, and growth opportunities to help you build a successful career in project management.",
+        "hiring_personality": "prefers_potential",
+        "status": "filled"
+    },
+    {
+        "job_id": "JOB_0019",
+        "company_name": "Summit Financial Group",
+        "job_title": "HR Manager",
+        "requirements": {
+            "required_skills": [
+                "Strategic HR planning",
+                "Employee relations",
+                "Talent acquisition",
+                "Performance management",
+                "Compensation and benefits administration",
+                "Compliance with labor laws and regulations",
+                "Organizational development",
+                "Change management",
+                "Excellent communication skills",
+                "Analytical and problem-solving abilities"
+            ],
+            "required_experience": "Minimum 5 years of progressive HR management experience, preferably within the finance industry.",
+            "education_level": "Bachelor\u2019s degree in Human Resources, Business Administration, or a related field. Master\u2019s degree or HR certification (e.g., SHRM-CP, PHR) is a plus.",
+            "location": "West Region (e.g., California, Washington, Oregon)"
+        },
+        "salary_range": "$100,000 - $120,000",
+        "summary": "Summit Financial Group is seeking a mission-driven HR Manager to join our team in the West region. In this pivotal role, you will lead HR initiatives that directly support our commitment to ethical finance and community impact. You will partner with leadership to foster a purpose-driven culture, attract and retain top talent, and ensure our HR practices align with our organizational mission. If you are passionate about making a difference through people-focused strategies and thrive in a values-based environment, we invite you to help shape the future of finance with us.",
+        "hiring_personality": "mission_driven",
+        "status": "filled"
+    }
+]
