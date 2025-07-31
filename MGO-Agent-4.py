@@ -1,6 +1,5 @@
 # -*- coding: utf-8 -*-
 
-# 1. --- IMPORTS ---
 import os
 import time
 import json
